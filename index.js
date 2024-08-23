@@ -39,6 +39,13 @@ app.get("/api/directors/:id", (req, res) => {
   res.json(director);
 });
 
+app.get("/api/composers/:id", (req, res) => {
+  const data = getData();
+  const composer = data.composers.find((d) => d.id === parseInt(req.params.id));
+  if (!composer) return res.status(404).send("Composer not found");
+  res.json(composer);
+});
+
 app.post("/api/films", (req, res) => {
   const data = getData();
   const newFilm = {

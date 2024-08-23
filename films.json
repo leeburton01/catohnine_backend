@@ -890,6 +890,17 @@
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmUwMDk5ZWYtMWQwOC00NmNmLTkyODItNzg5MDg1YmVkZDdhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_UY218_CR54,0,218,218_.jpg",
       "trailer": "https://www.youtube.com/watch?v=4wBImbHqhFk",
       "o.s.t": "https://www.youtube.com/watch?v=gEgyrFWhXY8"
+    },
+    {
+      "id": 53,
+      "title": "Brain Damage",
+      "director": "Frank Henenlotter ",
+      "metascore": 61,
+      "writer": "Frank Henenlotter ",
+      "composer": "Clutch Reiser (music) ",
+      "released": 1988,
+      "genre": ["comedy", "horror"],
+      "duration": 84
     }
   ],
   "directors": [
@@ -1066,7 +1077,6 @@
       ],
       "photo": "https://m.media-amazon.com/images/M/MV5BMTM5NjM3OTYyMV5BMl5BanBnXkFtZTYwMzcyMzY1._V1_UX392_CR0,0,392,578_.jpg"
     },
-
     {
       "id": 3,
       "name": "Brandon Cronenberg",
@@ -1109,12 +1119,9 @@
         }
       ],
       "photo": "https://m.media-amazon.com/images/M/MV5BMTU4ODgzNTgzM15BMl5BanBnXkFtZTcwODM1MTE4Nw@@._V1_UX392_CR0,0,392,578_.jpg"
-    }
-  ],
-
-  "composers": [
+    },
     {
-      "id": 1,
+      "id": 4,
       "name": "Howard Shore",
       "roles": ["Music Department", "Composer", "Actor"],
       "biography": "Howard Leslie Shore OC (born October 18, 1946) is a Canadian composer, conductor, and orchestrator noted for his film scores. He has composed the scores for over 80 films, most notably the scores for The Lord of the Rings and The Hobbit film trilogies. He won three Academy Awards for his work on The Lord of the Rings, with one being for the song 'Into the West', an award he shared with Eurythmics lead vocalist Annie Lennox and writer/producer Fran Walsh, who wrote the lyrics. He is a consistent collaborator with director David Cronenberg, having scored all but one of his films since 1979, and collaborated with Martin Scorsese on six of his films.\n\nShore has also composed concert works including one opera, The Fly, based on the plot of Cronenberg's 1986 film, which premiered at the Théâtre du Châtelet in Paris on July 2, 2008; a short piece named Fanfare for the Wanamaker Organ and the Philadelphia Orchestra; and a short overture for the Swiss 21st Century Symphony Orchestra. Shore has also composed for television, including serving as the original musical director for the American sketch comedy show Saturday Night Live from 1975 to 1980.\n\nIn addition to his three Oscars, Shore has also won three Golden Globe Awards, four Grammy Awards, three Genie Awards, and nine Canadian Screen Awards.",
