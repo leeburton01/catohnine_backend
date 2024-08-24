@@ -13,9 +13,20 @@
       "synopsis": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
       "duration": 109,
       "poster": "https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2EwODJiZjAtMDAzMC00YzZjLWFlMTctZmJkYTVjMDFkMmI0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY218_CR21,0,218,218_.jpg",
+      "thumbnail": "https://static01.nyt.com/images/2019/10/24/arts/lighthouse-anatomy1/lighthouse-anatomy1-superJumbo.jpg",
       "trailer": "https://www.youtube.com/watch?v=Hyag7lR8CPA",
-      "o.s.t": "https://www.youtube.com/watch?v=FT28_6P4JNc&list=PLR8FGshhUmfSHhSWh5yESvcHyse54D42E"
+      "o.s.t": "https://www.youtube.com/watch?v=FT28_6P4JNc&list=PLR8FGshhUmfSHhSWh5yESvcHyse54D42E",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.e2b76533-0cb8-721b-29f1-b2f35e126c39?ref_=imdbref_tt_wbr_ovf__pvt_aiv&tag=imdbtag_tt_wbr_ovf__pvt_aiv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 2,
@@ -32,7 +43,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMjk1MjhmZWQtNzU3OC00NDE4LThlODQtNTdhZGM4M2E3MWZkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY580_CR6,0,392,580_.jpg",
       "thumbnail": "https://resizing.flixster.com/-yAjKnohzTye8XmazGbDe0RLYmA=/fit-in/705x460/v2/https://resizing.flixster.com/iM9IulA3S_R2EW5ZoTJYSCCB-Fk=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZhZGE1Y2Q3LTBkYTItNDQ1ZS1iZjJhLWJiODU2ZWQ4YzJjMi53ZWJw",
       "trailer": "https://www.youtube.com/watch?v=rI054ow6KJk",
-      "o.s.t": "https://www.youtube.com/watch?v=IrWkbgmy_wg&list=PLohYzz4btpaQVwND8g7e1DIVqiAiaVaUr"
+      "o.s.t": "https://www.youtube.com/watch?v=IrWkbgmy_wg&list=PLohYzz4btpaQVwND8g7e1DIVqiAiaVaUr",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.a6b35630-2488-9393-2477-12c2a9d2ae17?ref_=imdbref_tt_wbr_ovf__pvt_aiv&tag=imdbtag_tt_wbr_ovf__pvt_aiv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 3,
@@ -49,7 +71,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMjBlYTlhMDctNTQ3ZC00MjM4LWIxNjctNDI4NjA3NDc3Yzc5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY580_CR4,0,392,580_.jpg",
       "thumbnail": "https://streamo.at/IMAGES/Diverse/Possessor_2020_Rhombus-Media_01.jpg",
       "trailer": "https://www.youtube.com/watch?v=FyRkoL45JGk",
-      "o.s.t": "https://www.youtube.com/watch?v=2iDArxKYFNc"
+      "o.s.t": "https://www.youtube.com/watch?v=2iDArxKYFNc",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.adae566f-533a-46ce-9d24-5d0301cfbdb1?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 4,
@@ -66,7 +99,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BYzE3ZDg0OTktYjlhNC00ZmQ0LTk0YjktMDE1ZWE2YjIwMjk4XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbe7b804d-1087-4acc-9dd6-801f2986a38a.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
       "trailer": "https://www.youtube.com/watch?v=EXs2-TY9qok",
-      "o.s.t": "https://www.youtube.com/watch?v=mWQm02BRSfg&list=PLRW80bBvVD3WPgszWVKcDJTL2G_Zyh7FZ"
+      "o.s.t": "https://www.youtube.com/watch?v=mWQm02BRSfg&list=PLRW80bBvVD3WPgszWVKcDJTL2G_Zyh7FZ",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.a54df17e-c544-4e91-93e6-d6dc01f4ec23?ref_=imdbref_tt_wbr_ovf__pvt_aiv&tag=imdbtag_tt_wbr_ovf__pvt_aiv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 5,
@@ -83,7 +127,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMjQ3MDA0ODA2N15BMl5BanBnXkFtZTgwNzg0NzgwMjI@._V1_UY580_CR0,0,392,580_.jpg",
       "thumbnail": "https://i.redd.it/1iddf3c716q81.jpg",
       "trailer": "https://www.youtube.com/watch?v=6YOYHCBQn9g",
-      "o.s.t": "https://www.youtube.com/watch?v=ZCxIseFIcCs&list=PLfzW_wEeYxk5LZqG0580o42JZOOudtFz2"
+      "o.s.t": "https://www.youtube.com/watch?v=ZCxIseFIcCs&list=PLfzW_wEeYxk5LZqG0580o42JZOOudtFz2",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.d6b0802f-b895-a261-6b40-9cec759e0741?ref_=imdbref_tt_wbr_ovf__pvt_aiv&tag=imdbtag_tt_wbr_ovf__pvt_aiv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 6,
@@ -117,7 +172,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BYjMzZDBkMWItMzM4MC00YzNmLTgzNzctMmUwOGYyZTA5MDZlXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BODk5YmQ2ZjQtYjU2NS00MDcxLTk5NTAtZDIxOWZlNDI3N2UxXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_UY218_CR152,0,218,218_.jpg",
       "trailer": "https://www.youtube.com/watch?v=FwN8Crl_DxQ",
-      "o.s.t": "https://www.youtube.com/watch?v=1bsRIhzUM24&list=PL5iHewYZ5Oy8-70Zc2u_j2Zypy_VbTjhP"
+      "o.s.t": "https://www.youtube.com/watch?v=1bsRIhzUM24&list=PL5iHewYZ5Oy8-70Zc2u_j2Zypy_VbTjhP",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.238929ce-d8ef-412e-8380-8b0cb7aeb2aa?ref_=imdbref_tt_wbr_ovf__pvt_aiv&tag=imdbtag_tt_wbr_ovf__pvt_aiv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 8,
@@ -149,9 +215,20 @@
       "synopsis": "In 1918, a young woman on the brink of madness pursues stardom in a desperate attempt to escape the drudgery, isolation, and lovelessness of life on her parents' farm.",
       "duration": 103,
       "poster": "https://m.media-amazon.com/images/M/MV5BZTFkNmE5MjUtZDE1Yi00ZmQyLTk2YWUtN2EwODA1ZmNlOTA5XkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTI2MjdkM2EtOTQ2Mi00MjNmLTliMTctZDgxMmZmOTBjOWEwXkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_UY218_CR151,0,218,218_.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BODFkM2E2N2ItZGE5Zi00MzNkLWFhYTYtNTM0NDFmMDhiMmE2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=L5PW5r3pEOg",
-      "o.s.t": "https://www.youtube.com/watch?v=-yEB5lIzES0"
+      "o.s.t": "https://www.youtube.com/watch?v=-yEB5lIzES0",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.580fa223-fa44-44f4-81f1-08a4dca49047?ref_=imdbref_tt_wbr_ovf__pvt_aiv&tag=imdbtag_tt_wbr_ovf__pvt_aiv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 10,
@@ -166,9 +243,20 @@
       "synopsis": "In 1979, a group of young filmmakers set out to make an adult film in a rural Texas farm, but when their reclusive, elderly hosts catch them in the act, the crew find themselves fighting for their lives.",
       "duration": 105,
       "poster": "https://m.media-amazon.com/images/M/MV5BMTJiMmE5YWItOWZjYS00YTg0LWE0MTYtMzg2ZTY4YjNkNDEzXkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_UY580_CR36,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWJhZmNiNzAtZmQ1OS00M2QyLWFmNzktZmMxMmIyN2YwNThkXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UY218_CR55,0,218,218_.jpg",
+      "thumbnail": "https://cdn01.justjared.com/wp-content/uploads/2024/02/pearl-xmovie/mia-goth-in-x-as-pearl-01.jpg",
       "trailer": "https://www.youtube.com/watch?v=Awg3cWuHfoc",
-      "o.s.t": "https://www.youtube.com/watch?v=pYQITsSdDGo&list=OLAK5uy_kaSd_q0qdMYggmDjhLthHrkFoeX1oX3lk"
+      "o.s.t": "https://www.youtube.com/watch?v=pYQITsSdDGo&list=OLAK5uy_kaSd_q0qdMYggmDjhLthHrkFoeX1oX3lk",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.5154857c-7acf-4976-98df-7daccb5782d8?ref_=imdbref_tt_wbr_ovf__pvt_aiv&tag=imdbtag_tt_wbr_ovf__pvt_aiv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 11,
@@ -185,7 +273,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BZDQxZTY0ZDItY2Y0Yy00OTIzLTkwYTgtNmNkODhiYTk4MzUwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://www.theupcoming.co.uk/wp-content/uploads/2023/02/Infinity_Pool_Still_1-1024x620.jpeg",
       "trailer": "https://www.youtube.com/watch?v=PVnIMvVEkrA",
-      "o.s.t": "https://www.youtube.com/watch?v=mTTOMZw4Zlw&list=PLRW80bBvVD3WNhaiaHC39iVN5HGpDBIjU"
+      "o.s.t": "https://www.youtube.com/watch?v=mTTOMZw4Zlw&list=PLRW80bBvVD3WNhaiaHC39iVN5HGpDBIjU",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.34fd614e-c16b-4806-90ac-886a71f97aa6?ref_=imdbref_tt_wbr_ovf__pvt_aiv&tag=imdbtag_tt_wbr_ovf__pvt_aiv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 12,
@@ -206,7 +305,7 @@
       "synopsis": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
       "duration": 99,
       "poster": "https://m.media-amazon.com/images/M/MV5BZGRjNjljOGEtZjFmMi00YzU1LWIxOWYtZTQzODMzNDQzMzY1XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY580_CR8,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjMwZDQyYzMtMWY5MS00M2JhLWFiOWQtNzIzODM5ZWY5Nzc1XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY218_CR147,0,218,218_.jpg",
+      "thumbnail": "https://assets.mubicdn.net/images/film/511/image-w1280.jpg?1540598415",
       "trailer": "https://www.youtube.com/watch?v=5Y0EEqtWrJI",
       "o.s.t": "https://www.youtube.com/watch?v=pGsckJnx0mE"
     },
@@ -223,9 +322,20 @@
       "synopsis": "During an escalating zombie epidemic, two Philadelphia SWAT team members, a traffic reporter and his TV executive girlfriend seek refuge in a secluded shopping mall.",
       "duration": 127,
       "poster": "https://m.media-amazon.com/images/M/MV5BMzc1YTIyNjctYzhlNy00ZmYzLWI2ZWQtMzk4MmQwYzA0NGQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTI5MTk2ZDYtMDVkMi00ZjNhLThlOWQtOGZjNWNjYTk4NTk4XkEyXkFqcGdeQXVyMjE4Mzg2OTg@._V1_UY218_CR90,0,218,218_.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDBiMGQyZWEtNjY5Zi00OTExLTk5ZWEtYTk1OGY5NGI1NmU2XkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=Y_EviQj5tvA",
-      "o.s.t": "https://www.youtube.com/watch?v=-C7gjtI_rv8&list=PLE4FQLcmWEPY4Q5fwQ6STYsklUtjr_fHr"
+      "o.s.t": "https://www.youtube.com/watch?v=-C7gjtI_rv8&list=PLE4FQLcmWEPY4Q5fwQ6STYsklUtjr_fHr",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.9ebaf0d0-40d7-f6a4-71bb-40a3df779144?ref_=imdbref_tt_wbr_ovf__pvc_homeofhorror&tag=imdbtag_tt_wbr_ovf__pvc_homeofhorror_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 14,
@@ -242,7 +352,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BZjhiMDcxM2EtNjllZi00YjJhLTg4MmEtMTg2ZjY2ZmViYjM1XkEyXkFqcGdeQXVyMjYxMzY2NDk@._V1_UY580_CR2,0,392,580_.jpg",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE5MTA3ZGMtNjg0YS00YTc3LWE0ZmYtN2ZhYWVmNTEyN2VhXkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_UY218_CR85,0,218,218_.jpg",
       "trailer": "https://www.youtube.com/watch?v=WgWe9QVqrl0",
-      "o.s.t": "https://www.youtube.com/watch?v=1wSUuLk80-4&list=PLL3xHZV-ttwm5KWxi9D5LvB5K_ifDx-5f"
+      "o.s.t": "https://www.youtube.com/watch?v=1wSUuLk80-4&list=PLL3xHZV-ttwm5KWxi9D5LvB5K_ifDx-5f",
+      "streaming": [
+        {
+          "serviceName": "Netflix",
+          "logoUrl": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
+          "serviceUrl": "https://www.netflix.com/de-en/title/80098711?source=imdb"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 15,
@@ -259,7 +380,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BN2M3Y2NhMGYtYjUxOS00M2UwLTlmMGUtYzY4MzFlNjZkYzY2XkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTZlNjU2ZTAtNDY1Yi00MWRlLTlkMzAtNzJlOGU1NDQ1ZDc2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY218_CR85,0,218,218_.jpg",
       "trailer": "https://www.youtube.com/watch?v=Dr89pmKrqkI",
-      "o.s.t": "https://www.youtube.com/watch?v=lhtPqqRFvpY&list=PLUdlvHPYCLHwsaawb81oD-8_EEHuU7ud-"
+      "o.s.t": "https://www.youtube.com/watch?v=lhtPqqRFvpY&list=PLUdlvHPYCLHwsaawb81oD-8_EEHuU7ud-",
+      "streaming": [
+        {
+          "serviceName": "Netflix",
+          "logoUrl": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
+          "serviceUrl": "https://www.netflix.com/de-en/title/81622499?source=imdb"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 16,
@@ -278,9 +410,15 @@
       "synopsis": "An American novelist visiting Rome to promote his latest book is stalked and harassed by an obsessed fan who is committing a string of murders that appear to be tributes to his work.",
       "duration": 101,
       "poster": "https://m.media-amazon.com/images/M/MV5BOTRmNGQ5NTAtNGEzYS00Mjk5LThiZDQtOTk4YTEzNTE1MGZkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY580_CR7,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmE2YTFjM2ItYjRmZC00ZTczLTlhMGEtNTJkNzI4ZTZlMDcxXkEyXkFqcGdeQXVyMTI4OTAyNTkw._V1_UY218_CR92,0,218,218_.jpg",
+      "thumbnail": "https://afistfuloffilm.com/wp-content/uploads/2021/09/tenebre-1200-1200-675-675-crop-000000.jpeg",
       "trailer": "https://www.youtube.com/watch?v=OkUpGi2N8wo",
-      "o.s.t": "https://www.youtube.com/watch?v=IPXxFVBUdao"
+      "o.s.t": "https://www.youtube.com/watch?v=IPXxFVBUdao",
+      "streaming": [
+        {
+          "freeToWatch": "yes",
+          "youtubeLink": "https://www.youtube.com/embed/cv5jI8jSve0?si=GzqIzFD4U2Dj5DUU"
+        }
+      ]
     },
     {
       "id": 17,
@@ -297,7 +435,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BNzZhZjJlNzMtZmVlNi00MTIxLTg3OTMtMTI2NTVkYWQ4NDQyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGQyNDk1MDUtZWI3MS00MTg0LWEyNDktZDU2ODlhOGNlNTZkXkEyXkFqcGdeQXVyMTEwNDU1MzEy._V1_UY218_CR84,0,218,218_.jpg",
       "trailer": "https://www.youtube.com/watch?v=eIU_IHfp3cU",
-      "o.s.t": "https://www.youtube.com/watch?v=IinQqaqrVkA&list=PLohYzz4btpaTsLYvB79UKTUZjbEcVrtMN"
+      "o.s.t": "https://www.youtube.com/watch?v=IinQqaqrVkA&list=PLohYzz4btpaTsLYvB79UKTUZjbEcVrtMN",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.44bb14b1-6537-0ccb-0ab3-bd6f02d8c770?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 18,
@@ -331,7 +480,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BNjRmY2NmN2UtMmRlMS00Mjg2LTgwNjUtZjYyZjc0NDJjODFkXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWI2ZGQwYTItNTNhOC00ZDQ4LThiMGEtNDk0NDAzYTlmMjJmXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_UY218_CR35,0,218,218_.jpg",
       "trailer": "https://www.youtube.com/watch?v=UN362NKd83s",
-      "o.s.t": "https://www.youtube.com/watch?v=k2DLY_jqKrU&list=PLAzEKcd5MWFG77ithlqHpxIPoGWnpU-jk"
+      "o.s.t": "https://www.youtube.com/watch?v=k2DLY_jqKrU&list=PLAzEKcd5MWFG77ithlqHpxIPoGWnpU-jk",
+      "streaming": [
+        {
+          "serviceName": "Netflix",
+          "logoUrl": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
+          "serviceUrl": "https://www.netflix.com/de-en/title/484369?source=imdb"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 20,
@@ -404,7 +564,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BYTY4MTVhZGEtNGUyMS00Y2ZhLTlmN2EtMWI1YTYxMGYyN2I1XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://images.squarespace-cdn.com/content/v1/59e512ddf43b55c29c71b996/1539294998070-ZMIA690K1QQFAD8XKBH7/deadringers.png",
       "trailer": "https://www.youtube.com/watch?v=T-KSRUrM4x0",
-      "o.s.t": "https://www.youtube.com/watch?v=sqe7rpkpm2c"
+      "o.s.t": "https://www.youtube.com/watch?v=sqe7rpkpm2c",
+      "streaming": [
+        {
+          "serviceName": "Mubi",
+          "logoUrl": "https://admin.itsnicethat.com/images/W5ZUMF3eF3-gZwgsCBtER99WJZI=/158097/format-webp%7Cwidth-1440/5c66df747fa44c7d2b000914.jpg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.17221e10-ba0d-4fb9-acb1-5872f1a77aa4?ref_=imdbref_tt_wbr_ovf__pvc_mubi&tag=imdbtag_tt_wbr_ovf__pvc_mubi_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 24,
@@ -440,9 +611,20 @@
       "synopsis": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
       "duration": 97,
       "poster": "https://m.media-amazon.com/images/M/MV5BMmU1MTJkYWItMzM5Ny00NDgxLTgxOGEtNTkzNDdkZjkwNGI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY580_CR5,0,392,580_.jpg",
-      "thumbnail": "https://ihavenothingtowatch.home.blog/wp-content/uploads/2019/03/existenz.jpg",
+      "thumbnail": "https://images.squarespace-cdn.com/content/v1/59e512ddf43b55c29c71b996/1542993190017-1IY30PA1CYR3FYJ7C4G7/image-asset.jpeg",
       "trailer": "https://www.youtube.com/watch?v=DZZJrQc-wtw",
-      "o.s.t": "https://www.youtube.com/watch?v=WbSChWmXIX4&list=PLJX43jGraLAIgqF3eRPcKaoo9B7yPwNg_"
+      "o.s.t": "https://www.youtube.com/watch?v=WbSChWmXIX4&list=PLJX43jGraLAIgqF3eRPcKaoo9B7yPwNg_",
+      "streaming": [
+        {
+          "serviceName": "Freevee",
+          "logoUrl": "https://m.media-amazon.com/images/G/01/AdProductsWebsite/images/blog/2022/Freevee_logo_thumbnail.png",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.dc6caeee-7d36-4e8c-9598-decfb33c0e7e?ref_=atv_auth_red_aft&tag=imdbtag_tt_wbr_ovf__fdv_de-21&autoplay=1"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 26,
@@ -459,7 +641,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BOGY1MGM2ZjItZDJjMC00ZGM0LTg2MDctNmExNzcyYTcwMjM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjQ4NDBhMDMtYzBlNi00MGNhLWE5MmItYzUzNDkwYTBiMjYwXkEyXkFqcGdeQXVyNDAyMjk2NDI@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=XWhZDQkq0bw",
-      "o.s.t": "https://www.youtube.com/watch?v=ERZnMLFakgs&list=PLWWwgAIIK3OPrJn3eE6UIwfmPodPs1kcc"
+      "o.s.t": "https://www.youtube.com/watch?v=ERZnMLFakgs&list=PLWWwgAIIK3OPrJn3eE6UIwfmPodPs1kcc",
+      "streaming": [
+        {
+          "serviceName": "Home Of Horror",
+          "logoUrl": "https://www.film-rezensionen.de/wp-content/uploads/2020/06/Home-of-Horror.jpg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.18ba9e28-30cc-e590-546c-b7d4e3e4d661?ref_=imdbref_tt_wbr_ovf__pvc_homeofhorror&tag=imdbtag_tt_wbr_ovf__pvc_homeofhorror_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 27,
@@ -476,7 +669,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjQwNzc5ODUxN15BMl5BanBnXkFtZTgwNTA1ODc2MjE@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=HkZYbOH0ujw",
-      "o.s.t": "https://www.youtube.com/watch?v=CcEv413NWRs"
+      "o.s.t": "https://www.youtube.com/watch?v=CcEv413NWRs",
+      "streaming": [
+        {
+          "serviceName": "Home Of Horror",
+          "logoUrl": "https://www.film-rezensionen.de/wp-content/uploads/2020/06/Home-of-Horror.jpg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.98a9f6d1-1b55-212b-80f9-de127dd7ed55?ref_=imdbref_tt_wbr_ovf__pvc_homeofhorror&tag=imdbtag_tt_wbr_ovf__pvc_homeofhorror_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 28,
@@ -593,9 +797,15 @@
       "synopsis": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
       "duration": 83,
       "poster": "https://m.media-amazon.com/images/M/MV5BZDI3OWE0ZWMtNGJjOS00N2E4LWFiOTAtZjQ4OTNiNzIwN2NkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmQ1YjI2Y2EtYThiNi00ZTFmLThlN2MtNzEyZDg5Y2Q0N2EyXkEyXkFqcGdeQXVyOTUxNzAwODE@._V1_UY218_CR85,0,218,218_.jpg",
+      "thumbnail": "https://a.ltrbxd.com/resized/sm/upload/e4/j2/1q/2h/the-texas-chain-saw-massacre-1200-1200-675-675-crop-000000.jpg?v=dbceb0d20b",
       "trailer": "https://www.youtube.com/watch?v=BKn9QIaMgtQ",
-      "o.s.t": "https://www.youtube.com/watch?v=cZBaUR4S4bs"
+      "o.s.t": "https://www.youtube.com/watch?v=cZBaUR4S4bs",
+      "streaming": [
+        {
+          "freeToWatch": "yes",
+          "youtubeLink": "https://www.youtube.com/embed/UeZ-E9Lt22w?si=YaCxXTjSpPbjWjyR"
+        }
+      ]
     },
     {
       "id": 35,
@@ -610,9 +820,15 @@
       "synopsis": "A jazz pianist and a wisecracking journalist are pulled into a complex web of mystery after the former witnesses the brutal murder of a psychic.",
       "duration": 127,
       "poster": "https://m.media-amazon.com/images/M/MV5BYTg4MjczZWMtMzAzNS00NzUwLWEwNzYtZmUzZGJjNjA1OTdiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDM4NjdhNmItNmQxOS00MWRhLTkzYTEtZGExZjZhM2JhN2FkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY218_CR84,0,218,218_.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDFjMTg0YWUtYzI3NC00ZjIwLTgyN2ItOWM3YTExYjc4ZDJhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=VNmDCXAm1tE",
-      "o.s.t": "https://www.youtube.com/watch?v=IyKVSjZS1Kk&list=PLFZ5kTZU6FleJtM0KknleDc2z0JR2YPCu"
+      "o.s.t": "https://www.youtube.com/watch?v=IyKVSjZS1Kk&list=PLFZ5kTZU6FleJtM0KknleDc2z0JR2YPCu",
+      "streaming": [
+        {
+          "freeToWatch": "yes",
+          "youtubeLink": "https://www.youtube.com/embed/8JHWw7kveAQ?si=YcDMjmqEs3OZGtQm"
+        }
+      ]
     },
     {
       "id": 36,
@@ -627,9 +843,15 @@
       "synopsis": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the Northeast of the United States.",
       "duration": 96,
       "poster": "https://m.media-amazon.com/images/M/MV5BMzRmN2E1ZDUtZDc2ZC00ZmI3LTkwOTctNzE2ZDIzMGJiMTYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY580_CR1,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGNhYmY4NzgtM2YwOC00MTNmLTg2MzMtNWIwZDY0M2Y5YjcyXkEyXkFqcGdeQXVyNTAyNDQ2NjI@._V1_UY218_CR85,0,218,218_.jpg",
+      "thumbnail": "https://reelsteelcinema.com/wp-content/uploads/2020/09/notld00.png?w=1263&h=1074&crop=1",
       "trailer": "https://www.youtube.com/watch?v=V5XwrRFP7Zw",
-      "o.s.t": null
+      "o.s.t": null,
+      "streaming": [
+        {
+          "freeToWatch": "yes",
+          "youtubeLink": "https://www.youtube.com/embed/l-FGlw6jWgQ?si=-4SETJXLQB_mg-RT"
+        }
+      ]
     },
     {
       "id": 37,
@@ -646,7 +868,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://64.media.tumblr.com/cdf0b8b847667fba161eaaf8ba7b22b5/tumblr_pebycmZl2y1r3741jo6_1280.png",
       "trailer": "https://www.youtube.com/watch?v=V6wWKNij_1M",
-      "o.s.t": "https://www.youtube.com/watch?v=pN2kMikEDtg&list=PLfzW_wEeYxk5LHTUeHS0NviBVn-bRWX_N"
+      "o.s.t": "https://www.youtube.com/watch?v=pN2kMikEDtg&list=PLfzW_wEeYxk5LHTUeHS0NviBVn-bRWX_N",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.22b77b2c-dece-47d3-d753-723d6d02deec?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 39,
@@ -723,13 +956,13 @@
       "writer": ["Christian Tafdrup", "Mads Tafdrup"],
       "director": "Christian Tafdrup",
       "composer": "Sune Kølster",
-      "released": 2022,
+      "released": 2024,
       "production_company": "Profile Pictures",
       "genre": ["Drama", "Horror", "Thriller"],
       "synopsis": "A Danish family visits a Dutch family they met on a holiday. What was supposed to be an idyllic weekend slowly starts unraveling as the Danes try to stay polite in the face of unpleasantness.",
       "duration": 97,
       "poster": "https://m.media-amazon.com/images/M/MV5BNWRhMjcwYjMtZDg2ZC00YmI1LWIwM2MtOTBhNmQ4OWUwYjgxXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_UY580_CR7,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDE1YzZmYTYtYmE1My00OTcyLTlhYzctZTgwNTlhNDkyYjVmXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_UY218_CR52,0,218,218_.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDcyNGY1NWYtMGJmNi00OGQyLWE2MTYtMmM5NDFmMzVkZGEwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=UhWiiDhmBCM",
       "o.s.t": "https://www.youtube.com/watch?v=Z3xUSZ7hNWA&list=OLAK5uy_lCP6dO3LPuoIx855y5KvXRoRx-cimnhRQ"
     },
@@ -785,9 +1018,15 @@
       "synopsis": "After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue.",
       "duration": 84,
       "poster": "https://m.media-amazon.com/images/M/MV5BMjcxOTcwZDAtYjg4Ny00YzUzLWJkNDgtMzhkMDJlOTg1YTFiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzJiMzU5ZTgtNWIyOC00NmE1LWE0ZmUtZTBiM2M2MjI4OWRhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY218_CR85,0,218,218_.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzRiZjI0OGUtNmJjNy00ZDBlLTg0N2MtYjBkMjljZGI2YmYyXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=wLJ8Z3PDEGU",
-      "o.s.t": "https://www.youtube.com/watch?v=kVolclbGBtU"
+      "o.s.t": "https://www.youtube.com/watch?v=kVolclbGBtU",
+      "streaming": [
+        {
+          "freeToWatch": "yes",
+          "youtubeLink": "https://www.youtube.com/embed/I1Wys_TcsKg?si=HoAsd9vR5amKsIVX"
+        }
+      ]
     },
     {
       "id": 47,
@@ -802,9 +1041,20 @@
       "synopsis": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
       "duration": 148,
       "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2Y3Yzc3ZTgtNzdiYi00ZjI3LWI1ZDctMGJmNjJlMWI3MzUzXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_UY218_CR109,0,218,218_.jpg",
+      "thumbnail": "https://www.norwichfilmfestival.co.uk/wp-content/uploads/2019/07/midsommar.jpg",
       "trailer": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
-      "o.s.t": "https://www.youtube.com/watch?v=15FrzbM4Ej8"
+      "o.s.t": "https://www.youtube.com/watch?v=15FrzbM4Ej8",
+      "streaming": [
+        {
+          "serviceName": "Home Of Horror",
+          "logoUrl": "https://www.film-rezensionen.de/wp-content/uploads/2020/06/Home-of-Horror.jpg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.eab6b143-8a2c-7bb4-1f20-322a56b8b9f0?ref_=imdbref_tt_wbr_ovf__pvc_homeofhorror&tag=imdbtag_tt_wbr_ovf__pvc_homeofhorror_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 48,
@@ -819,9 +1069,15 @@
       "synopsis": "An American student investigates the disappearance of his sister and the death of a friend, both connected from New York to Rome by an old alchemy book.",
       "duration": 106,
       "poster": "https://m.media-amazon.com/images/M/MV5BN2U3YmMyMzMtYTY4MC00NmNiLThmMzUtMDEyNDJiMjFhNDFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzU4NDY1ZmQtZDliMy00YTczLWIwMTAtMDIzYTkzZDgwNzdjXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY218_CR92,0,218,218_.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzU4NDY1ZmQtZDliMy00YTczLWIwMTAtMDIzYTkzZDgwNzdjXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=qbKgG_TC_To",
-      "o.s.t": "https://www.youtube.com/watch?v=0U5JApvuhH0"
+      "o.s.t": "https://www.youtube.com/watch?v=0U5JApvuhH0",
+      "streaming": [
+        {
+          "freeToWatch": "yes",
+          "youtubeLink": "https://www.youtube.com/embed/iKSw6yOOgD4?si=y3nsL5TYy9OyMnK7"
+        }
+      ]
     },
     {
       "id": 49,
@@ -838,7 +1094,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BZDdjODNkMmYtYjMwNS00NTQzLThlYjUtODY2ZjdjNTNlY2JiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzY4NGFjYjUtNDUxNS00NjRkLTg4MzItY2ZlYWZlNzZjYzUyXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
       "trailer": "https://www.youtube.com/watch?v=Bw4wiiLv-VU",
-      "o.s.t": "https://www.youtube.com/watch?v=_2XVepRkYkE&list=PLsLT_0WUX8XNIRb48UpRN51atC1XdBNT2"
+      "o.s.t": "https://www.youtube.com/watch?v=_2XVepRkYkE&list=PLsLT_0WUX8XNIRb48UpRN51atC1XdBNT2",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.22bc5739-dcc6-45ab-b8f6-3f9c0d607427?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 50,
@@ -855,7 +1122,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjM5MTYyNGItYmFlYi00NDIwLWE0MjYtNTdkM2VjODI5ZjgwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY218_CR152,0,218,218_.jpg",
       "trailer": "https://www.youtube.com/watch?v=koQKnuQb7zQ",
-      "o.s.t": "https://www.youtube.com/watch?v=IlEftUcBxWc&list=OLAK5uy_nhQdJL2mVF4mu5svvk60EtI3ceRdUCMIE"
+      "o.s.t": "https://www.youtube.com/watch?v=IlEftUcBxWc&list=OLAK5uy_nhQdJL2mVF4mu5svvk60EtI3ceRdUCMIE",
+      "streaming": [
+        {
+          "serviceName": "Netflix",
+          "logoUrl": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
+          "serviceUrl": "https://www.netflix.com/de-en/title/80149258?source=imdb"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 51,
@@ -872,7 +1150,18 @@
       "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjQwMDU2OV5BMl5BanBnXkFtZTgwNzMwMDg2OTE@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjAwODNkMDAtNTUwNi00YTc2LTlhZjctNzE4N2VjMTk2MmE3XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY218_CR151,0,218,218_.jpg",
       "trailer": "https://www.youtube.com/watch?v=G_ATX4C8Pmw",
-      "o.s.t": null
+      "o.s.t": null,
+      "streaming": [
+        {
+          "serviceName": "Netflix",
+          "logoUrl": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
+          "serviceUrl": "https://www.netflix.com/de-en/title/80096786?source=imdb"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 52,
@@ -887,9 +1176,20 @@
       "synopsis": "Things go badly for a hack director and film crew shooting a low budget zombie movie in an abandoned WWII Japanese facility, when they are attacked by real zombies.",
       "duration": 96,
       "poster": "https://m.media-amazon.com/images/M/MV5BY2RhNTVhMTEtMzgyNi00NDg1LWIwYjktOTcxNDQyM2ZjNDE1XkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_UY580_CR9,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmUwMDk5ZWYtMWQwOC00NmNmLTkyODItNzg5MDg1YmVkZDdhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_UY218_CR54,0,218,218_.jpg",
+      "thumbnail": "https://assets.mubicdn.net/images/artworks/494090/images-original.png?1668165935",
       "trailer": "https://www.youtube.com/watch?v=4wBImbHqhFk",
-      "o.s.t": "https://www.youtube.com/watch?v=gEgyrFWhXY8"
+      "o.s.t": "https://www.youtube.com/watch?v=gEgyrFWhXY8",
+      "streaming": [
+        {
+          "serviceName": "Prime Video",
+          "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Amazon_Prime_Video_blue_logo_1.svg",
+          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.f8af6f59-fa3a-495a-8328-4493c5bfc96f?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
+        },
+        {
+          "freeToWatch": "no",
+          "youtubeLink": ""
+        }
+      ]
     },
     {
       "id": 53,
@@ -929,7 +1229,7 @@
           "synopsis": "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
           "duration": 99,
           "poster": "https://m.media-amazon.com/images/M/MV5BZGRjNjljOGEtZjFmMi00YzU1LWIxOWYtZTQzODMzNDQzMzY1XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY580_CR8,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjMwZDQyYzMtMWY5MS00M2JhLWFiOWQtNzIzODM5ZWY5Nzc1XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY218_CR147,0,218,218_.jpg",
+          "thumbnail": "https://assets.mubicdn.net/images/film/511/image-w1280.jpg?1540598415",
           "trailer": "https://www.youtube.com/watch?v=5Y0EEqtWrJI",
           "o.s.t": "https://www.youtube.com/watch?v=pGsckJnx0mE"
         },
@@ -950,7 +1250,7 @@
           "synopsis": "An American novelist visiting Rome to promote his latest book is stalked and harassed by an obsessed fan who is committing a string of murders that appear to be tributes to his work.",
           "duration": 101,
           "poster": "https://m.media-amazon.com/images/M/MV5BOTRmNGQ5NTAtNGEzYS00Mjk5LThiZDQtOTk4YTEzNTE1MGZkXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UY580_CR7,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmE2YTFjM2ItYjRmZC00ZTczLTlhMGEtNTJkNzI4ZTZlMDcxXkEyXkFqcGdeQXVyMTI4OTAyNTkw._V1_UY218_CR92,0,218,218_.jpg",
+          "thumbnail": "https://afistfuloffilm.com/wp-content/uploads/2021/09/tenebre-1200-1200-675-675-crop-000000.jpeg",
           "trailer": "https://www.youtube.com/watch?v=OkUpGi2N8wo",
           "o.s.t": "https://www.youtube.com/watch?v=IPXxFVBUdao"
         },
@@ -967,7 +1267,7 @@
           "synopsis": "An American student investigates the disappearance of his sister and the death of a friend, both connected from New York to Rome by an old alchemy book.",
           "duration": 106,
           "poster": "https://m.media-amazon.com/images/M/MV5BN2U3YmMyMzMtYTY4MC00NmNiLThmMzUtMDEyNDJiMjFhNDFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX392_CR0,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzU4NDY1ZmQtZDliMy00YTczLWIwMTAtMDIzYTkzZDgwNzdjXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY218_CR92,0,218,218_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzU4NDY1ZmQtZDliMy00YTczLWIwMTAtMDIzYTkzZDgwNzdjXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
           "trailer": "https://www.youtube.com/watch?v=qbKgG_TC_To",
           "o.s.t": "https://www.youtube.com/watch?v=0U5JApvuhH0"
         },
@@ -984,7 +1284,7 @@
           "synopsis": "A jazz pianist and a wisecracking journalist are pulled into a complex web of mystery after the former witnesses the brutal murder of a psychic.",
           "duration": 127,
           "poster": "https://m.media-amazon.com/images/M/MV5BYTg4MjczZWMtMzAzNS00NzUwLWEwNzYtZmUzZGJjNjA1OTdiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX392_CR0,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDM4NjdhNmItNmQxOS00MWRhLTkzYTEtZGExZjZhM2JhN2FkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY218_CR84,0,218,218_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDFjMTg0YWUtYzI3NC00ZjIwLTgyN2ItOWM3YTExYjc4ZDJhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
           "trailer": "https://www.youtube.com/watch?v=VNmDCXAm1tE",
           "o.s.t": "https://www.youtube.com/watch?v=IyKVSjZS1Kk&list=PLFZ5kTZU6FleJtM0KknleDc2z0JR2YPCu"
         }
@@ -1015,7 +1315,7 @@
           "synopsis": "Twin gynecologists take full advantage of the fact that nobody can tell them apart, until their relationship begins to deteriorate over a woman.",
           "duration": 116,
           "poster": "https://m.media-amazon.com/images/M/MV5BYTY4MTVhZGEtNGUyMS00Y2ZhLTlmN2EtMWI1YTYxMGYyN2I1XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_UX392_CR0,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2E4YWRjODctY2JiMy00MGEyLWE5ODgtY2M1N2FkODYyNDllXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY218_CR85,0,218,218_.jpg",
+          "thumbnail": "https://images.squarespace-cdn.com/content/v1/59e512ddf43b55c29c71b996/1539294998070-ZMIA690K1QQFAD8XKBH7/deadringers.png",
           "trailer": "https://www.youtube.com/watch?v=T-KSRUrM4x0",
           "o.s.t": "https://www.youtube.com/watch?v=sqe7rpkpm2c"
         },
@@ -1036,7 +1336,7 @@
           "synopsis": "A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.",
           "duration": 96,
           "poster": "https://m.media-amazon.com/images/M/MV5BODcxMGMwOGEtMDUxMi00MzE5LTg4YTYtYjk1YjA4MzQxNTNlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX392_CR0,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BODUzZjVmZTMtMTZkNC00YzRlLTk3ZWQtNGQwMDQxMThiMWE5XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY218_CR55,0,218,218_.jpg",
+          "thumbnail": "https://media.timeout.com/images/101630201/750/422/image.jpg",
           "trailer": "https://www.youtube.com/watch?v=ECFAMTEnvqw",
           "o.s.t": "https://www.youtube.com/watch?v=zHqBq_ko9F4"
         },
@@ -1053,7 +1353,7 @@
           "synopsis": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
           "duration": 97,
           "poster": "https://m.media-amazon.com/images/M/MV5BMmU1MTJkYWItMzM5Ny00NDgxLTgxOGEtNTkzNDdkZjkwNGI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY580_CR5,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2Y1NmY3YWMtMzBmZC00YzVhLTgzOTItMzdjNmYxYmM2YTJjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY218_CR81,0,218,218_.jpg",
+          "thumbnail": "https://images.squarespace-cdn.com/content/v1/59e512ddf43b55c29c71b996/1542993190017-1IY30PA1CYR3FYJ7C4G7/image-asset.jpeg",
           "trailer": "https://www.youtube.com/watch?v=DZZJrQc-wtw",
           "o.s.t": "https://www.youtube.com/watch?v=WbSChWmXIX4&list=PLJX43jGraLAIgqF3eRPcKaoo9B7yPwNg_"
         },
@@ -1070,7 +1370,7 @@
           "synopsis": "Humans adapt to a synthetic environment, with new transformations and mutations. With his partner Caprice, Saul Tenser, celebrity performance artist, publicly showcases the metamorphosis of his organs in avant-garde performances.",
           "duration": 107,
           "poster": "https://m.media-amazon.com/images/M/MV5BZDdjODNkMmYtYjMwNS00NTQzLThlYjUtODY2ZjdjNTNlY2JiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX392_CR0,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDQxODE1MmItMTQyNS00YmIxLThlZDgtNWNhZjE0MTg4MDU5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY218_CR85,0,218,218_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzY4NGFjYjUtNDUxNS00NjRkLTg4MzItY2ZlYWZlNzZjYzUyXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
           "trailer": "https://www.youtube.com/watch?v=Bw4wiiLv-VU",
           "o.s.t": "https://www.youtube.com/watch?v=_2XVepRkYkE&list=PLsLT_0WUX8XNIRb48UpRN51atC1XdBNT2"
         }
@@ -1096,7 +1396,7 @@
           "synopsis": "An agent works for a secretive organization that uses brain-implant technology to inhabit other people's bodies - ultimately driving them to commit assassinations for high-paying clients.",
           "duration": 103,
           "poster": "https://m.media-amazon.com/images/M/MV5BMjBlYTlhMDctNTQ3ZC00MjM4LWIxNjctNDI4NjA3NDc3Yzc5XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_UY580_CR4,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWRiYWFjMDQtOTc2Yy00ZWI2LWE2MDktOWI4ZDc1ODQzZDNlXkEyXkFqcGdeQXVyNjA5NDgxNTg@._V1_UY218_CR65,0,218,218_.jpg",
+          "thumbnail": "https://streamo.at/IMAGES/Diverse/Possessor_2020_Rhombus-Media_01.jpg",
           "trailer": "https://www.youtube.com/watch?v=FyRkoL45JGk",
           "o.s.t": "https://www.youtube.com/watch?v=2iDArxKYFNc"
         },
@@ -1113,7 +1413,7 @@
           "synopsis": "James and Em Foster are enjoying an all-inclusive beach vacation in the fictional island of La Tolqa, when a fatal accident exposes the resort's perverse subculture of hedonistic tourism, reckless violence, and surreal horrors.",
           "duration": 117,
           "poster": "https://m.media-amazon.com/images/M/MV5BZDQxZTY0ZDItY2Y0Yy00OTIzLTkwYTgtNmNkODhiYTk4MzUwXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX392_CR0,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmM5NWM3NzUtYmIwYi00MGRiLWIyYzgtNmNkMjYyZjkyNDQ3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UY218_CR85,0,218,218_.jpg",
+          "thumbnail": "https://www.theupcoming.co.uk/wp-content/uploads/2023/02/Infinity_Pool_Still_1-1024x620.jpeg",
           "trailer": "https://www.youtube.com/watch?v=PVnIMvVEkrA",
           "o.s.t": "https://www.youtube.com/watch?v=mTTOMZw4Zlw&list=PLRW80bBvVD3WNhaiaHC39iVN5HGpDBIjU"
         }
@@ -1182,7 +1482,7 @@
           "synopsis": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
           "duration": 97,
           "poster": "https://m.media-amazon.com/images/M/MV5BMmU1MTJkYWItMzM5Ny00NDgxLTgxOGEtNTkzNDdkZjkwNGI0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_UY580_CR5,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2Y1NmY3YWMtMzBmZC00YzVhLTgzOTItMzdjNmYxYmM2YTJjXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY218_CR81,0,218,218_.jpg",
+          "thumbnail": "https://ihavenothingtowatch.home.blog/wp-content/uploads/2019/03/existenz.jpg",
           "trailer": "https://www.youtube.com/watch?v=DZZJrQc-wtw",
           "o.s.t": "https://www.youtube.com/watch?v=WbSChWmXIX4&list=PLJX43jGraLAIgqF3eRPcKaoo9B7yPwNg_"
         },
@@ -1199,7 +1499,7 @@
           "synopsis": "Humans adapt to a synthetic environment, with new transformations and mutations. With his partner Caprice, Saul Tenser, celebrity performance artist, publicly showcases the metamorphosis of his organs in avant-garde performances.",
           "duration": 107,
           "poster": "https://m.media-amazon.com/images/M/MV5BZDdjODNkMmYtYjMwNS00NTQzLThlYjUtODY2ZjdjNTNlY2JiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX392_CR0,0,392,580_.jpg",
-          "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDQxODE1MmItMTQyNS00YmIxLThlZDgtNWNhZjE0MTg4MDU5XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY218_CR85,0,218,218_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzY4NGFjYjUtNDUxNS00NjRkLTg4MzItY2ZlYWZlNzZjYzUyXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
           "trailer": "https://www.youtube.com/watch?v=Bw4wiiLv-VU",
           "o.s.t": "https://www.youtube.com/watch?v=_2XVepRkYkE&list=PLsLT_0WUX8XNIRb48UpRN51atC1XdBNT2"
         }
