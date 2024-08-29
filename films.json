@@ -525,7 +525,7 @@
 
     {
   "id": 6,
-  "title": "When Evil Lurks / Cuando acecha la maldad",
+  "title": "When Evil Lurks",
   "metascore": 75,
   "writer": "Demián Rugna",
   "director": "Demián Rugna",
@@ -751,7 +751,7 @@
   "synopsis": "In pursuit of a serial killer, an FBI agent uncovers a series of occult clues that she must solve to end his terrifying killing spree.",
   "duration": 101,
   "poster": "https://m.media-amazon.com/images/M/MV5BMmVkZWY2ODEtYTMyYy00MDg2LWFkMGUtMjYwOTBhOGViODQzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX392_CR0,0,392,580_.jpg",
-  "thumbnail": "https://compote.slate.com/images/f9fa9d31-3ebc-497e-965c-afd5ad7b2571.jpeg?crop=1560%2C1041%2Cx0%2Cy0",
+  "thumbnail": "https://images.squarespace-cdn.com/content/v1/6671db2fe159e6458022347f/1721089342573-AEN25S6C7M7O0TSCFD36/longlegs-04_LONGLEGS_MaikaMonroe_CourtesyofNEON.jpg",
   "trailer": "https://www.youtube.com/watch?v=wWK0OfbElaU",
   "ost": [
     {
@@ -2183,7 +2183,7 @@
   "synopsis": "A psychic medium attempts to uncover the truth behind her sister's murder at the site of the crime.",
   "duration": 98,
   "poster": "https://m.media-amazon.com/images/M/MV5BMWU5Yjc0N2MtZjhlYS00MTM3LWI5YWUtZDg5MzcxZjEyZWJmXkEyXkFqcGc@._V1_UX392_CR0,0,392,580_.jpg",
-  "thumbnail": "https://i0.wp.com/projectedfigures.com/wp-content/uploads/2024/08/Oddity.jpg?fit=1257%2C858&ssl=1",
+  "thumbnail": "https://www.horrormagazin.de/wp-content/uploads/2024/05/oddity-foto1.jpg",
   "trailer": "https://www.youtube.com/watch?v=tLNDvnv8B3A",
   "ost": null,
   "streaming": [
@@ -2759,853 +2759,2476 @@
    },
 
     {
-      "id": 28,
-      "title": "I Saw the TV Glow",
-      "metascore": 86,
-      "writer": [
-        "Jane Schoenbrun"
-      ],
-      "director": "Jane Schoenbrun",
-      "composer": "Alex G",
-      "released": 2024,
-      "production_company": "A24",
-      "genre": [
-        "Drama",
-        "Horror"
-      ],
-      "synopsis": "Two teenagers bond over their love of a supernatural TV show, but it is mysteriously cancelled.",
-      "duration": 100,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjcyZjFhYjYtMWYwZS00ZmY4LTgxYTgtODQ4NWFkM2ZiODU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://static.independent.co.uk/2024/07/24/16/i-saw-the-tv-glow.jpg",
-      "trailer": "https://www.youtube.com/watch?v=kymDzCgPwj0",
-      "ost": "https://www.youtube.com/watch?v=MmdKkUfpRew&list=PLSjzXDvNBfbk7MU0AETnL5sQZmvqa-s4K",
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+  "id": 28,
+  "title": "I Saw the TV Glow",
+  "metascore": 86,
+  "writer": ["Jane Schoenbrun"],
+  "director": "Jane Schoenbrun",
+  "producers": [
+    "Ali Herting",
+    "Sam Intili",
+    "Dave McCary",
+    "Emma Stone",
+    "Sarah Winshall"
+  ],
+  "composer": "Alex G",
+  "cinematographer": "Eric Yue (as Eric Yue)",
+  "editor": "Sofi Marshall",
+  "casting_directors": [
+    "Geraldine Barón",
+    "Abby Harri",
+    "Salome Oggenfuss"
+  ],
+  "production_designer": "Brandon Tonner-Connolly",
+  "released": 2024,
+  "production_company": "A24",
+  "genre": ["Drama", "Horror"],
+  "synopsis": "Two teenagers bond over their love of a supernatural TV show, but it is mysteriously cancelled.",
+  "duration": 100,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjcyZjFhYjYtMWYwZS00ZmY4LTgxYTgtODQ4NWFkM2ZiODU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://images.mubicdn.net/images/film/320517/cache-928083-1702462516/image-w1280.jpg?size=800x",
+  "trailer": "https://www.youtube.com/watch?v=kymDzCgPwj0",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=MmdKkUfpRew&list=PLSjzXDvNBfbk7MU0AETnL5sQZmvqa-s4K"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
     },
     {
-      "id": 29,
-      "title": "The Substance",
-      "metascore": 85,
-      "writer": [
-        "Coralie Fargeat"
-      ],
-      "director": "Coralie Fargeat",
-      "composer": "Raffertie",
-      "released": 2024,
-      "production_company": "Blacksmith Pictures",
-      "genre": [
-        "Drama",
-        "Horror"
-      ],
-      "synopsis": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
-      "duration": 140,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZjdlMjAxMGEtZjkzNy00NzI3LTllOWUtMmZkY2FjMjlmZDhlXkEyXkFqcGc@._V1_UY580_CR2,0,392,580_.jpg",
-      "thumbnail": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/06/20074613/substance-still-3-e1721476352766.png",
-      "trailer": "https://www.youtube.com/watch?v=xRd1KZZ76_o",
-      "ost": null,
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Justice Smith",
+      "role": "Owen"
     },
     {
-      "id": 30,
-      "title": "Sleep",
-      "metascore": 78,
-      "writer": [
-        "Jason Yu"
-      ],
-      "director": "Jason Yu",
-      "composer": [
-        "Hyukjin Chang",
-        "Yong Jin Chang"
-      ],
-      "released": 2023,
-      "production_company": "Lewis Pictures",
-      "genre": [
-        "Comedy",
-        "Horror",
-        "Mystery"
-      ],
-      "synopsis": "A young, expectant wife must figure out how to stop her husband's nightmarish sleepwalking habits before he harms himself or his family.",
-      "duration": 95,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjRmNWNiZjktZjI3Ny00OTg4LThhNjQtMzEzMTMzYzdiYzVhXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_UY580_CR7,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzA2MmY3NzMtNmNkNC00YmZkLTg4YWQtZDgwY2ZjZjc0MTU3XkEyXkFqcGdeQXVyMTM3MzcwMjY3._V1_UY218_CR54,0,218,218_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=bTDFXHbtuTo",
-      "ost": null,
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Brigette Lundy-Paine",
+      "role": "Maddy"
     },
     {
-      "id": 31,
-      "title": "A Different Man",
-      "metascore": 74,
-      "writer": [
-        "Aaron Schimberg"
-      ],
-      "director": "Aaron Schimberg",
-      "composer": "Umberto Smerilli",
-      "released": 2024,
-      "production_company": "A24",
-      "genre": [
-        "Comedy",
-        "Horror",
-        "Thriller"
-      ],
-      "synopsis": "After undergoing a facial reconstructive surgery, Edward becomes fixated on an actor in a stage production based on his former life.",
-      "duration": 112,
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTE2MjJlMzctMzFlNy00ODU4LWEzNTUtY2EyNWYzYTE4NWE5XkEyXkFqcGdeQXVyMTM3MzcwMjY3._V1_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=_9CmC5Rmsdw",
-      "ost": null,
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Ian Foreman",
+      "role": "Young Owen"
     },
     {
-      "id": 32,
-      "title": "The Devil's Bath",
-      "metascore": 73,
-      "writer": [
-        "Severin Fiala",
-        "Veronika Franz"
-      ],
-      "director": [
-        "Severin Fiala",
-        "Veronika Franz"
-      ],
-      "composer": "Anja Plaschg (as Soap&Skin)",
-      "released": 2024,
-      "production_company": "Ulrich Seidl Film Produktion GmbH",
-      "genre": [
-        "Drama",
-        "History",
-        "Horror"
-      ],
-      "synopsis": "Austria in the 18th century. Forests surround villages. Killing a baby gets a woman sentenced to death. Agnes readies for married life with her beloved. But her mind and heart grow heavy. A gloomy path alone, evil thoughts arising.",
-      "duration": 121,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMGVmMzZlMWUtYjE3Zi00ZDEyLTk0MDItMzM5MDhmZmE0YjBjXkEyXkFqcGdeQXVyNDY5NTQyMDU@._V1_UY580_CR9,0,392,580_.jpg",
-      "thumbnail": "https://d13jj08vfqimqg.cloudfront.net/uploads/film/photo_3/6003/full_DEVIL_S_BATH-Clean-16x9-03.png",
-      "trailer": "https://www.youtube.com/watch?v=PaGMdANhmrw",
-      "ost": null,
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Helena Howard",
+      "role": "Isabel"
     },
     {
-      "id": 33,
-      "title": "Late Night with the Devil",
-      "metascore": 72,
-      "writer": [
-        "Colin Cairnes",
-        "Cameron Cairnes"
-      ],
-      "director": [
-        "Cameron Cairnes",
-        "Colin Cairnes"
-      ],
-      "composer": "Glenn Richards",
-      "released": 2023,
-      "production_company": "Future Pictures",
-      "genre": [
-        "Horror"
-      ],
-      "synopsis": "A live television broadcast in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
-      "duration": 93,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDkyNjE0NzMtNTgxYS00MDE4LWI0OWYtZGNmNDcxNjRhMTY3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDk2MTk2MGItZGEwYS00ZmNhLThjOGYtODBhNWQ1YmViODkwXkEyXkFqcGc@._V1_UY218_CR85,0,218,218_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=cvt-mauboTc",
-      "ost": "https://www.youtube.com/watch?v=ydQTeh-tt9A",
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Lindsey Jordan",
+      "role": "Tara"
     },
     {
-      "id": 34,
-      "title": "The Texas Chain Saw Massacre",
-      "metascore": 91,
-      "writer": [
-        "Kim Henkel",
-        "Tobe Hooper"
-      ],
-      "director": "Tobe Hooper",
-      "composer": [
-        "Wayne Bell",
-        "Tobe Hooper"
-      ],
-      "released": 1974,
-      "production_company": "Vortex",
-      "genre": [
-        "Horror"
-      ],
-      "synopsis": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
-      "duration": 83,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDI3OWE0ZWMtNGJjOS00N2E4LWFiOTAtZjQ4OTNiNzIwN2NkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://a.ltrbxd.com/resized/sm/upload/e4/j2/1q/2h/the-texas-chain-saw-massacre-1200-1200-675-675-crop-000000.jpg?v=dbceb0d20b",
-      "trailer": "https://www.youtube.com/watch?v=BKn9QIaMgtQ",
-      "ost": "https://www.youtube.com/watch?v=cZBaUR4S4bs",
-      "streaming": [
-        {
-          "serviceName": "Youtube",
-          "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
-          "serviceUrl": "https://www.youtube.com/watch?v=UeZ-E9Lt22w&t=3130s"
-        },
-        {
-          "freeToWatch": "yes",
-          "youtubeLink": "https://www.youtube.com/embed/UeZ-E9Lt22w?si=YaCxXTjSpPbjWjyR"
-        }
-      ]
+      "name": "Danielle Deadwyler",
+      "role": "Brenda"
     },
     {
-      "id": 35,
-      "title": "Deep Red",
-      "metascore": 89,
-      "writer": [
-        "Dario Argento",
-        "Bernardino Zapponi"
-      ],
-      "director": "Dario Argento",
-      "composer": [
-        "Giorgio Gaslini",
-        "Goblin"
-      ],
-      "released": 1975,
-      "production_company": "Rizzoli Film",
-      "genre": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "synopsis": "A jazz pianist and a wisecracking journalist are pulled into a complex web of mystery after the former witnesses the brutal murder of a psychic.",
-      "duration": 127,
-      "poster": "https://m.media-amazon.com/images/M/MV5BYTg4MjczZWMtMzAzNS00NzUwLWEwNzYtZmUzZGJjNjA1OTdiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDFjMTg0YWUtYzI3NC00ZjIwLTgyN2ItOWM3YTExYjc4ZDJhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=VNmDCXAm1tE",
-      "ost": "https://www.youtube.com/watch?v=IyKVSjZS1Kk&list=PLFZ5kTZU6FleJtM0KknleDc2z0JR2YPCu",
-      "streaming": [
-        {
-          "serviceName": "Youtube",
-          "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
-          "serviceUrl": "https://www.youtube.com/watch?v=gWcK6UIa3K4&t=1516s"
-        },
-        {
-          "freeToWatch": "yes",
-          "youtubeLink": "https://www.youtube.com/embed/8JHWw7kveAQ?si=YcDMjmqEs3OZGtQm"
-        }
-      ]
+      "name": "Fred Durst",
+      "role": "Frank"
     },
     {
-      "id": 36,
-      "title": "Night of the Living Dead",
-      "metascore": 89,
-      "writer": [
-        "John A. Russo",
-        "George A. Romero"
-      ],
-      "director": "George A. Romero",
-      "composer": null,
-      "released": 1968,
-      "production_company": "Image Ten",
-      "genre": [
-        "Horror",
-        "Thriller"
-      ],
-      "synopsis": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the Northeast of the United States.",
-      "duration": 96,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzRmN2E1ZDUtZDc2ZC00ZmI3LTkwOTctNzE2ZDIzMGJiMTYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY580_CR1,0,392,580_.jpg",
-      "thumbnail": "https://reelsteelcinema.com/wp-content/uploads/2020/09/notld00.png?w=1263&h=1074&crop=1",
-      "trailer": "https://www.youtube.com/watch?v=V5XwrRFP7Zw",
-      "ost": null,
-      "streaming": [
-        {
-          "serviceName": "Youtube",
-          "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
-          "serviceUrl": "https://www.youtube.com/watch?v=l-FGlw6jWgQ"
-        },
-        {
-          "freeToWatch": "yes",
-          "youtubeLink": "https://www.youtube.com/embed/l-FGlw6jWgQ?si=-4SETJXLQB_mg-RT"
-        }
-      ]
+      "name": "Conner O'Malley",
+      "role": "Dave"
     },
     {
-      "id": 37,
-      "title": "Hereditary",
-      "metascore": 87,
-      "writer": [
-        "Ari Aster"
-      ],
-      "director": "Ari Aster",
-      "composer": "Colin Stetson",
-      "released": 2018,
-      "production_company": "PalmStar Media",
-      "genre": [
-        "Drama",
-        "Horror",
-        "Mystery"
-      ],
-      "synopsis": "A grieving family is haunted by tragic and disturbing occurrences.",
-      "duration": 127,
-      "poster": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://64.media.tumblr.com/cdf0b8b847667fba161eaaf8ba7b22b5/tumblr_pebycmZl2y1r3741jo6_1280.png",
-      "trailer": "https://www.youtube.com/watch?v=V6wWKNij_1M",
-      "ost": "https://www.youtube.com/watch?v=pN2kMikEDtg&list=PLfzW_wEeYxk5LHTUeHS0NviBVn-bRWX_N",
-      "streaming": [
-        {
-          "serviceName": "Prime Video",
-          "logoUrl": "https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Symbol.png",
-          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.22b77b2c-dece-47d3-d753-723d6d02deec?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Emma Portner",
+      "role": "Mr. Melancholy / Marco / Amanda / Evil Clown"
     },
     {
-      "id": 39,
-      "title": "The Exorcist",
-      "metascore": 83,
-      "writer": [
-        "William Peter Blatty"
-      ],
-      "director": "William Friedkin",
-      "composer": [
-        "Jack Nitzsche",
-        "Anton Webern",
-        "Krzysztof Penderecki"
-      ],
-      "released": 1973,
-      "production_company": "Warner Bros.",
-      "genre": [
-        "Horror"
-      ],
-      "synopsis": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
-      "duration": 122,
-      "poster": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjJlMGZiMjYtOTZmNS00MTczLTllN2YtY2FlZGU0OGI4NjM0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_UY218_CR55,0,218,218_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=PjD42P7BAaA",
-      "ost": "https://www.youtube.com/watch?v=1c6g6vXzAHU",
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Madaline Riley",
+      "role": "Polo"
+    }
+  ],
+  "box_office": {
+    "budget": null,
+    "opening_weekend": "$119,015",
+    "gross_us_canada": "$5,017,817",
+    "gross_world": "$5,208,941"
+  },
+  "release_date": "May 17, 2024 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 3,
+    "other_nominations": 16
+  }
+},
+
+   {
+  "id": 29,
+  "title": "The Substance",
+  "metascore": 85,
+  "writer": [
+    "Coralie Fargeat"
+  ],
+  "director": "Coralie Fargeat",
+  "producers": [
+    "Tim Bevan",
+    "Coralie Fargeat",
+    "Eric Fellner"
+  ],
+  "composer": "Raffertie",
+  "cinematographer": "Benjamin Kracun",
+  "editors": [
+    "Jerome Eltabet",
+    "Coralie Fargeat",
+    "Valentin Féron"
+  ],
+  "casting_directors": [
+    "Laure Cochener",
+    "Léa Moszkowicz"
+  ],
+  "production_designer": "Stanislas Reydellet",
+  "released": 2024,
+  "production_company": "Blacksmith Pictures",
+  "genre": [
+    "Drama",
+    "Horror"
+  ],
+  "synopsis": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+  "duration": 140,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZjdlMjAxMGEtZjkzNy00NzI3LTllOWUtMmZkY2FjMjlmZDhlXkEyXkFqcGc@._V1_UY580_CR2,0,392,580_.jpg",
+  "thumbnail": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/130/2024/06/20074613/substance-still-3-e1721476352766.png",
+  "trailer": "https://www.youtube.com/watch?v=xRd1KZZ76_o",
+  "ost": null,
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
     },
     {
-      "id": 40,
-      "title": "Under the Skin",
-      "metascore": 83,
-      "writer": [
-        "Walter Campbell",
-        "Jonathan Glazer",
-        "Michel Faber"
-      ],
-      "director": "Jonathan Glazer",
-      "composer": "Mica Levi",
-      "released": 2013,
-      "production_company": "Film4",
-      "genre": [
-        "Drama",
-        "Horror",
-        "Mystery"
-      ],
-      "synopsis": "A mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
-      "duration": 108,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://cdn.vox-cdn.com/thumbor/EQCmwdESgrPMlJumtkjqwGHvPA0=/96x0:922x551/2050x1367/cdn.vox-cdn.com/uploads/chorus_image/image/31457337/undertheskin_promotionalstill3_1020.0.jpg",
-      "trailer": "https://www.youtube.com/watch?v=J7bAZCOk0Sc",
-      "ost": "https://www.youtube.com/watch?v=1LaAkoZw8uY&list=PLPz8YqTp2i1SZnM-3t1CQvtwGMEWcVjaj",
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Margaret Qualley",
+      "role": "Sue"
     },
     {
-      "id": 41,
-      "title": "Green Room",
-      "metascore": 79,
-      "writer": [
-        "Jeremy Saulnier"
-      ],
-      "director": "Jeremy Saulnier",
-      "composer": [
-        "Brooke Blair",
-        "Will Blair"
-      ],
-      "released": 2015,
-      "production_company": "Broad Green Pictures",
-      "genre": [
-        "Crime",
-        "Horror",
-        "Music"
-      ],
-      "synopsis": "A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar.",
-      "duration": 95,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYyNTUxODgwMl5BMl5BanBnXkFtZTgwNjEyNjA4ODE@._V1_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=Q8XSARX3DQg",
-      "ost": "https://www.youtube.com/watch?v=XxDfQqmRQwc&list=OLAK5uy_n1MXoQHRud9MIAZDQoEAABx3sm-uke7OM",
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Dennis Quaid",
+      "role": "Harvey"
     },
     {
-      "id": 42,
-      "title": "Poltergeist",
-      "metascore": 79,
-      "writer": [
-        "Steven Spielberg",
-        "Michael Grais",
-        "Mark Victor"
-      ],
-      "director": "Tobe Hooper",
-      "composer": "Jerry Goldsmith",
-      "released": 1982,
-      "production_company": "Metro-Goldwyn-Mayer (MGM)",
-      "genre": [
-        "Horror",
-        "Thriller"
-      ],
-      "synopsis": "A family's home is haunted by a host of demonic ghosts.",
-      "duration": 114,
-      "poster": "https://m.media-amazon.com/images/M/MV5BODJiZTU1ZTMtZTEzMy00NzFmLWJjNzctZTc2MDcwZjE1MDBjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGNiM2Y1ZDAtOGVkYy00YTVlLWIwMjgtOTJjNTFjNWJlZTZlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY218_CR152,0,218,218_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=sCi3t3vMwrY",
-      "ost": "https://www.youtube.com/watch?v=PZ5bIZhrXIg&list=PLwd2dpqAu5rhWZHBH5IU2HeTlttoNgAJq",
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Demi Moore",
+      "role": "Elisabeth Sparkle"
     },
     {
-      "id": 43,
-      "title": "Speak No Evil",
-      "metascore": 78,
-      "writer": [
-        "Christian Tafdrup",
-        "Mads Tafdrup"
-      ],
-      "director": "Christian Tafdrup",
-      "composer": "Sune Kølster",
-      "released": 2024,
-      "production_company": "Profile Pictures",
-      "genre": [
-        "Drama",
-        "Horror",
-        "Thriller"
-      ],
-      "synopsis": "A Danish family visits a Dutch family they met on a holiday. What was supposed to be an idyllic weekend slowly starts unraveling as the Danes try to stay polite in the face of unpleasantness.",
-      "duration": 97,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNWRhMjcwYjMtZDg2ZC00YmI1LWIwM2MtOTBhNmQ4OWUwYjgxXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_UY580_CR7,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDcyNGY1NWYtMGJmNi00OGQyLWE2MTYtMmM5NDFmMzVkZGEwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=UhWiiDhmBCM",
-      "ost": "https://www.youtube.com/watch?v=Z3xUSZ7hNWA&list=OLAK5uy_lCP6dO3LPuoIx855y5KvXRoRx-cimnhRQ",
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Hugo Diego Garcia",
+      "role": "Diego"
     },
     {
-      "id": 44,
-      "title": "Mother!",
-      "metascore": 76,
-      "writer": [
-        "Darren Aronofsky"
-      ],
-      "director": "Darren Aronofsky",
-      "composer": null,
-      "released": 2017,
-      "production_company": "Paramount Pictures",
-      "genre": [
-        "Drama",
-        "Horror",
-        "Mystery"
-      ],
-      "synopsis": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
-      "duration": 121,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://www2.bfi.org.uk/sites/bfi.org.uk/files/styles/full/public/image/mother-2017-005-jennifer-lawrence-hands-wall.jpg?itok=YickxXOi",
-      "trailer": "https://www.youtube.com/watch?v=XpICoc65uh0",
-      "ost": null,
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Alexandra Papoulias Barton (as Alexandra Barton)",
+      "role": "Encourager"
     },
     {
-      "id": 45,
-      "title": "The Invitation",
-      "metascore": 74,
-      "writer": [
-        "Phil Hay",
-        "Matt Manfredi"
-      ],
-      "director": "Karyn Kusama",
-      "composer": "Theodore Shapiro",
-      "released": 2015,
-      "production_company": "Gamechanger Films",
-      "genre": [
-        "Drama",
-        "Horror",
-        "Mystery"
-      ],
-      "synopsis": "When a man accepts an invitation to a dinner party hosted by his ex-wife, the unsettling past reopens old wounds and creates new tensions.",
-      "duration": 100,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTkzODMwNDkzOF5BMl5BanBnXkFtZTgwNDA4NzA1ODE@._V1_UY580_CR3,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTM0NzViNzAtOTUyYS00YTQ3LWEwODgtMjUwODc0YmFjN2I3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY218_CR146,0,218,218_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=0-mp77SZ_0M",
-      "ost": "https://www.youtube.com/watch?v=V6cRbXRiTC0&list=OLAK5uy_m7gX98Jil26TG5pNLpnmadX9oDitTEXOc",
-      "streaming": [
-        {
-          "serviceName": "",
-          "logoUrl": "",
-          "serviceUrl": ""
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Oscar Lesage",
+      "role": "Troy"
     },
     {
-      "id": 46,
-      "title": "Re-Animator",
-      "metascore": 73,
-      "writer": [
-        "H.P. Lovecraft",
-        "Dennis Paoli",
-        "William Norris",
-        "Stuart Gordon"
-      ],
-      "director": "Stuart Gordon",
-      "composer": "Richard Band",
-      "released": 1985,
-      "production_company": "Empire Pictures",
-      "genre": [
-        "Comedy",
-        "Horror",
-        "Sci-Fi"
-      ],
-      "synopsis": "After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue.",
-      "duration": 84,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjcxOTcwZDAtYjg4Ny00YzUzLWJkNDgtMzhkMDJlOTg1YTFiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzRiZjI0OGUtNmJjNy00ZDBlLTg0N2MtYjBkMjljZGI2YmYyXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=wLJ8Z3PDEGU",
-      "ost": "https://www.youtube.com/watch?v=kVolclbGBtU",
-      "streaming": [
-        {
-          "serviceName": "Youtube",
-          "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
-          "serviceUrl": "https://www.youtube.com/watch?v=I1Wys_TcsKg&t=661s"
-        },
-        {
-          "freeToWatch": "yes",
-          "youtubeLink": "https://www.youtube.com/embed/I1Wys_TcsKg?si=HoAsd9vR5amKsIVX"
-        }
-      ]
+      "name": "Joseph Balderrama",
+      "role": "Craig Silver"
     },
     {
-      "id": 47,
-      "title": "Midsommar",
-      "metascore": 72,
-      "writer": [
-        "Ari Aster"
-      ],
-      "director": "Ari Aster",
-      "composer": "The Haxan Cloak",
-      "released": 2019,
-      "production_company": "A24",
-      "genre": [
-        "Drama",
-        "Horror",
-        "Mystery"
-      ],
-      "synopsis": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
-      "duration": 148,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://www.norwichfilmfestival.co.uk/wp-content/uploads/2019/07/midsommar.jpg",
-      "trailer": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
-      "ost": "https://www.youtube.com/watch?v=15FrzbM4Ej8",
-      "streaming": [
-        {
-          "serviceName": "Home Of Horror",
-          "logoUrl": "https://www.film-rezensionen.de/wp-content/uploads/2020/06/Home-of-Horror.jpg",
-          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.eab6b143-8a2c-7bb4-1f20-322a56b8b9f0?ref_=imdbref_tt_wbr_ovf__pvc_homeofhorror&tag=imdbtag_tt_wbr_ovf__pvc_homeofhorror_de-21"
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Tiffany Hofstetter",
+      "role": "The Stylist"
     },
     {
-      "id": 48,
-      "title": "Inferno",
-      "metascore": 69,
-      "writer": [
-        "Dario Argento"
-      ],
-      "director": "Dario Argento",
-      "composer": "Keith Emerson",
-      "released": 1980,
-      "production_company": "Produzioni Intersound",
-      "genre": [
-        "Horror"
-      ],
-      "synopsis": "An American student investigates the disappearance of his sister and the death of a friend, both connected from New York to Rome by an old alchemy book.",
-      "duration": 106,
-      "poster": "https://m.media-amazon.com/images/M/MV5BN2U3YmMyMzMtYTY4MC00NmNiLThmMzUtMDEyNDJiMjFhNDFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzU4NDY1ZmQtZDliMy00YTczLWIwMTAtMDIzYTkzZDgwNzdjXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=qbKgG_TC_To",
-      "ost": "https://www.youtube.com/watch?v=0U5JApvuhH0",
-      "streaming": [
-        {
-          "serviceName": "Youtube",
-          "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
-          "serviceUrl": "https://www.youtube.com/watch?v=iKSw6yOOgD4"
-        },
-        {
-          "freeToWatch": "yes",
-          "youtubeLink": "https://www.youtube.com/embed/iKSw6yOOgD4?si=y3nsL5TYy9OyMnK7"
-        }
-      ]
+      "name": "Gore Abrams",
+      "role": "Oliver"
     },
     {
-      "id": 49,
-      "title": "Crimes of the Future",
-      "metascore": 68,
-      "writer": [
-        "David Cronenberg"
-      ],
-      "director": "David Cronenberg",
-      "composer": "Howard Shore",
-      "released": 2022,
-      "production_company": "Serendipity Point Films",
-      "genre": [
-        "Drama",
-        "Horror",
-        "Sci-Fi"
-      ],
-      "synopsis": "Humans adapt to a synthetic environment, with new transformations and mutations. With his partner Caprice, Saul Tenser, celebrity performance artist, publicly showcases the metamorphosis of his organs in avant-garde performances.",
-      "duration": 107,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZDdjODNkMmYtYjMwNS00NTQzLThlYjUtODY2ZjdjNTNlY2JiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzY4NGFjYjUtNDUxNS00NjRkLTg4MzItY2ZlYWZlNzZjYzUyXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=Bw4wiiLv-VU",
-      "ost": "https://www.youtube.com/watch?v=_2XVepRkYkE&list=PLsLT_0WUX8XNIRb48UpRN51atC1XdBNT2",
-      "streaming": [
-        {
-          "serviceName": "Prime Video",
-          "logoUrl": "https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Symbol.png",
-          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.22bc5739-dcc6-45ab-b8f6-3f9c0d607427?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Jiselle Henderkott",
+      "role": "Girl"
+    }
+  ],
+  "box_office": {
+    "gross_world": "$8,535"
+  },
+  "release_date": "Sep 20, 2024 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 1,
+    "other_nominations": 3
+  }
+},
+
+   {
+  "id": 30,
+  "title": "Sleep",
+  "metascore": 78,
+  "writer": [
+    "Jason Yu"
+  ],
+  "director": "Jason Yu",
+  "producers": [
+    "Lewis Taewan Kim"
+  ],
+  "composers": [
+    "Hyukjin Chang (as Chang Hyuk-jin)",
+    "Yong Jin Chang"
+  ],
+  "cinematographer": "Tae-soo Kim",
+  "editor": "Meeyeon Han",
+  "production_designer": "Shin Yu-jin (as Yu Jin Shin)",
+  "released": 2023,
+  "production_company": "Lewis Pictures",
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Mystery"
+  ],
+  "synopsis": "A young, expectant wife must figure out how to stop her husband's nightmarish sleepwalking habits before he harms himself or his family.",
+  "duration": 95,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjRmNWNiZjktZjI3Ny00OTg4LThhNjQtMzEzMTMzYzdiYzVhXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_UY580_CR7,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzA2MmY3NzMtNmNkNC00YmZkLTg4YWQtZDgwY2ZjZjc0MTU3XkEyXkFqcGdeQXVyMTM3MzcwMjY3._V1_UY218_CR54,0,218,218_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=bTDFXHbtuTo",
+  "ost": null,
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
     },
     {
-      "id": 50,
-      "title": "Get Out",
-      "metascore": 85,
-      "writer": [
-        "Jordan Peele"
-      ],
-      "director": "Jordan Peele",
-      "composer": "Michael Abels",
-      "released": 2017,
-      "production_company": "Universal Pictures",
-      "genre": [
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "synopsis": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
-      "duration": 104,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjM5MTYyNGItYmFlYi00NDIwLWE0MjYtNTdkM2VjODI5ZjgwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY218_CR152,0,218,218_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=koQKnuQb7zQ",
-      "ost": "https://www.youtube.com/watch?v=IlEftUcBxWc&list=OLAK5uy_nhQdJL2mVF4mu5svvk60EtI3ceRdUCMIE",
-      "streaming": [
-        {
-          "serviceName": "Netflix",
-          "logoUrl": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
-          "serviceUrl": "https://www.netflix.com/de-en/title/80149258?source=imdb"
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Kim Gook Hee",
+      "role": "Min Jeong"
     },
     {
-      "id": 51,
-      "title": "Under the Shadow",
-      "metascore": 83,
-      "writer": [
-        "Babak Anvari"
-      ],
-      "director": "Babak Anvari",
-      "composer": [
-        "Gavin Cullen",
-        "Will McGillivray"
-      ],
-      "released": 2016,
-      "production_company": "Wigwam Films",
-      "genre": [
-        "Drama",
-        "Fantasy",
-        "Horror"
-      ],
-      "synopsis": "As a mother and daughter struggle to cope with the terrors of the post-revolution, war-torn Tehran of the 1980s, a mysterious evil begins to haunt their home.",
-      "duration": 84,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjQwMDU2OV5BMl5BanBnXkFtZTgwNzMwMDg2OTE@._V1_UX392_CR0,0,392,580_.jpg",
-      "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjAwODNkMDAtNTUwNi00YTc2LTlhZjctNzE4N2VjMTk2MmE3XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY218_CR151,0,218,218_.jpg",
-      "trailer": "https://www.youtube.com/watch?v=G_ATX4C8Pmw",
-      "ost": null,
-      "streaming": [
-        {
-          "serviceName": "Netflix",
-          "logoUrl": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
-          "serviceUrl": "https://www.netflix.com/de-en/title/80096786?source=imdb"
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Yoon Kyung-ho",
+      "role": "Doctor"
     },
     {
-      "id": 52,
-      "title": "One Cut of the Dead",
-      "metascore": 86,
-      "writer": [
-        "Shin'ichirô Ueda",
-        "Ryoichi Wada"
-      ],
-      "director": "Shin'ichirô Ueda",
-      "composer": [
-        "Shôma Itô",
-        "Kyle Nagai",
-        "Suzuki Nobuhiro"
-      ],
-      "released": 2017,
-      "production_company": "ENBU Seminar",
-      "genre": [
-        "Comedy",
-        "Drama",
-        "Horror"
-      ],
-      "synopsis": "Things go badly for a hack director and film crew shooting a low budget zombie movie in an abandoned WWII Japanese facility, when they are attacked by real zombies.",
-      "duration": 96,
-      "poster": "https://m.media-amazon.com/images/M/MV5BY2RhNTVhMTEtMzgyNi00NDg1LWIwYjktOTcxNDQyM2ZjNDE1XkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_UY580_CR9,0,392,580_.jpg",
-      "thumbnail": "https://assets.mubicdn.net/images/artworks/494090/images-original.png?1668165935",
-      "trailer": "https://www.youtube.com/watch?v=4wBImbHqhFk",
-      "ost": "https://www.youtube.com/watch?v=gEgyrFWhXY8",
-      "streaming": [
-        {
-          "serviceName": "Prime Video",
-          "logoUrl": "https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Symbol.png",
-          "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.f8af6f59-fa3a-495a-8328-4493c5bfc96f?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
-        },
-        {
-          "freeToWatch": "no",
-          "youtubeLink": ""
-        }
-      ]
+      "name": "Katie Leigh",
+      "role": "Soo-jin's Mother (voice) (version: English)"
     },
+    {
+      "name": "Erin Nicole Lundquist",
+      "role": "Madame Haegoong (voice) (version: English)"
+    },
+    {
+      "name": "Dalia Ramahi",
+      "role": "Min Jeong (voice) (version: English)"
+    },
+    {
+      "name": "Lee Sun-kyun",
+      "role": "Hyun-su"
+    },
+    {
+      "name": "Heidi Tabing",
+      "role": "Soo-jin (voice) (version: English)"
+    },
+    {
+      "name": "Jung Yu-mi",
+      "role": "Soo-jin"
+    }
+  ],
+  "box_office": {
+    "gross_world": "$11,022,466"
+  },
+  "release_date": "Oct 20, 2023 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 3,
+    "other_nominations": 13
+  }
+},
+
+ 
+   {
+  "id": 31,
+  "title": "A Different Man",
+  "metascore": 74,
+  "writer": [
+    "Aaron Schimberg"
+  ],
+  "director": "Aaron Schimberg",
+  "producers": [
+    "Gabriel Mayers",
+    "Vanessa McDonnell",
+    "Christine Vachon"
+  ],
+  "composer": "Umberto Smerilli",
+  "cinematographer": "Wyatt Garfield",
+  "editor": "Taylor Levy",
+  "casting_director": "Maribeth Fox",
+  "production_designer": "Anna Kathleen",
+  "released": 2024,
+  "production_company": "A24",
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Thriller"
+  ],
+  "synopsis": "After undergoing a facial reconstructive surgery, Edward becomes fixated on an actor in a stage production based on his former life.",
+  "duration": 112,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTE2MjJlMzctMzFlNy00ODU4LWEzNTUtY2EyNWYzYTE4NWE5XkEyXkFqcGdeQXVyMTM3MzcwMjY3._V1_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=_9CmC5Rmsdw",
+  "ost": null,
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sebastian Stan",
+      "role": "Edward"
+    },
+    {
+      "name": "Miles G. Jackson",
+      "role": "Sean"
+    },
+    {
+      "name": "Patrick Wang",
+      "role": "Director"
+    },
+    {
+      "name": "Neal Davidson",
+      "role": "Corey"
+    },
+    {
+      "name": "Jed Rapfogel",
+      "role": "Man In Sunglasses"
+    },
+    {
+      "name": "Marc Geller",
+      "role": "Ragged Man"
+    },
+    {
+      "name": "James Foster Jr.",
+      "role": "Intrusive Man"
+    },
+    {
+      "name": "JJ McGlone",
+      "role": "Casting Director"
+    },
+    {
+      "name": "Sergio Delavicci",
+      "role": "Mover"
+    },
+    {
+      "name": "Lawrence Arancio",
+      "role": "Landlord"
+    }
+  ],
+  "box_office": {
+    "gross_world": "$552"
+  },
+  "release_date": "Jan 21, 2024 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 2,
+    "other_nominations": 1
+  }
+},
+
+    {
+  "id": 32,
+  "title": "The Devil's Bath",
+  "metascore": 73,
+  "writer": [
+    "Severin Fiala",
+    "Veronika Franz"
+  ],
+  "director": [
+    "Severin Fiala",
+    "Veronika Franz"
+  ],
+  "producers": null,
+  "composer": "Anja Plaschg (as Soap&Skin)",
+  "cinematographer": "Martin Gschlacht",
+  "editor": "Michael Palm",
+  "casting_director": "Henri Steinmetz",
+  "production_designer": null,
+  "released": 2024,
+  "production_company": "Ulrich Seidl Film Produktion GmbH",
+  "genre": [
+    "Drama",
+    "History",
+    "Horror"
+  ],
+  "synopsis": "Austria in the 18th century. Forests surround villages. Killing a baby gets a woman sentenced to death. Agnes readies for married life with her beloved. But her mind and heart grow heavy. A gloomy path alone, evil thoughts arising.",
+  "duration": 121,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMGVmMzZlMWUtYjE3Zi00ZDEyLTk0MDItMzM5MDhmZmE0YjBjXkEyXkFqcGdeQXVyNDY5NTQyMDU@._V1_UY580_CR9,0,392,580_.jpg",
+  "thumbnail": "https://www.hollywoodreporter.com/wp-content/uploads/2024/01/202406824_4.jpg?w=1296",
+  "trailer": "https://www.youtube.com/watch?v=PaGMdANhmrw",
+  "ost": null,
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anja Plaschg",
+      "role": "Agnes"
+    },
+    {
+      "name": "Maria Hofstätter",
+      "role": "Mother Gänglin"
+    },
+    {
+      "name": "David Scheid",
+      "role": "Wolf"
+    },
+    {
+      "name": "Tim Valerian Alberti",
+      "role": "Schaulustiger"
+    },
+    {
+      "name": "Natalija Baranova",
+      "role": "Ewa Schikin (as Natalya Baranova)"
+    },
+    {
+      "name": "Franziska Holzer",
+      "role": "Village Girl"
+    },
+    {
+      "name": "Elmar Kurz",
+      "role": "Der Henker"
+    },
+    {
+      "name": "Agnes Lampl",
+      "role": "Actress"
+    },
+    {
+      "name": "Claudia Martini",
+      "role": "Actress"
+    },
+    {
+      "name": "Camilla Schilia",
+      "role": "Actress"
+    }
+  ],
+  "box_office": {
+    "gross_world": "$56,376"
+  },
+  "release_date": "Jun 8, 2024 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 9,
+    "other_nominations": 7
+  }
+},
+
+    {
+  "id": 33,
+  "title": "Late Night with the Devil",
+  "metascore": 72,
+  "writer": [
+    "Colin Cairnes",
+    "Cameron Cairnes"
+  ],
+  "director": [
+    "Cameron Cairnes",
+    "Colin Cairnes"
+  ],
+  "producers": [
+    "Derek Dauchy",
+    "Mat Govoni",
+    "Roy Lee",
+    "John Molloy"
+  ],
+  "composer": [
+    "Roscoe James Irwin",
+    "Glenn Richards"
+  ],
+  "cinematographer": "Matthew Temple",
+  "editor": [
+    "Cameron Cairnes",
+    "Colin Cairnes"
+  ],
+  "casting_director": "Leigh Pickford",
+  "production_designer": "Otello Stolfo",
+  "released": 2023,
+  "production_company": "Future Pictures",
+  "genre": [
+    "Horror"
+  ],
+  "synopsis": "A live television broadcast in 1977 goes horribly wrong, unleashing evil into the nation's living rooms.",
+  "duration": 93,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDkyNjE0NzMtNTgxYS00MDE4LWI0OWYtZGNmNDcxNjRhMTY3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDk2MTk2MGItZGEwYS00ZmNhLThjOGYtODBhNWQ1YmViODkwXkEyXkFqcGc@._V1_UY218_CR85,0,218,218_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=cvt-mauboTc",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=ydQTeh-tt9A"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Dastmalchian",
+      "role": "Jack Delroy"
+    },
+    {
+      "name": "Laura Gordon",
+      "role": "June Ross-Mitchell"
+    },
+    {
+      "name": "Ian Bliss",
+      "role": "Carmichael Haig"
+    },
+    {
+      "name": "Fayssal Bazzi",
+      "role": "Christou"
+    },
+    {
+      "name": "Ingrid Torelli",
+      "role": "Lilly"
+    },
+    {
+      "name": "Rhys Auteri",
+      "role": "Gus McConnell"
+    },
+    {
+      "name": "Georgina Haig",
+      "role": "Madeleine Piper"
+    },
+    {
+      "name": "Josh Quong Tart",
+      "role": "Leo Fiske"
+    },
+    {
+      "name": "Steve Mouzakis",
+      "role": "Szandor D'Abo"
+    },
+    {
+      "name": "Paula Arundell",
+      "role": "Diane"
+    }
+  ],
+  "box_office": {
+    "opening_weekend": "$2,834,867",
+    "gross_us_canada": "$10,001,000",
+    "gross_world": "$15,286,854"
+  },
+  "release_date": "Mar 22, 2024 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 4,
+    "other_nominations": 10
+  }
+},
+
+    {
+  "id": 34,
+  "title": "The Texas Chain Saw Massacre",
+  "metascore": 91,
+  "writer": [
+    "Kim Henkel",
+    "Tobe Hooper"
+  ],
+  "director": "Tobe Hooper",
+  "producers": [
+    "Tobe Hooper"
+  ],
+  "composer": [
+    "Wayne Bell",
+    "Tobe Hooper"
+  ],
+  "cinematographer": "Daniel Pearl",
+  "editors": [
+    "J. Larry Carroll (as Larry Carroll)",
+    "Sallye Richardson"
+  ],
+  "casting_director": null,
+  "production_designer": null,
+  "released": 1974,
+  "production_company": "Vortex",
+  "genre": [
+    "Horror"
+  ],
+  "synopsis": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
+  "duration": 83,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDI3OWE0ZWMtNGJjOS00N2E4LWFiOTAtZjQ4OTNiNzIwN2NkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://a.ltrbxd.com/resized/sm/upload/e4/j2/1q/2h/the-texas-chain-saw-massacre-1200-1200-675-675-crop-000000.jpg?v=dbceb0d20b",
+  "trailer": "https://www.youtube.com/watch?v=BKn9QIaMgtQ",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=cZBaUR4S4bs"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "Youtube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=UeZ-E9Lt22w&t=3130s"
+    },
+    {
+      "freeToWatch": "yes",
+      "youtubeLink": "https://www.youtube.com/embed/UeZ-E9Lt22w?si=YaCxXTjSpPbjWjyR"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Marilyn Burns",
+      "role": "Sally"
+    },
+    {
+      "name": "Allen Danziger",
+      "role": "Jerry"
+    },
+    {
+      "name": "Paul A. Partain",
+      "role": "Franklin"
+    },
+    {
+      "name": "William Vail",
+      "role": "Kirk"
+    },
+    {
+      "name": "Teri McMinn",
+      "role": "Pam"
+    },
+    {
+      "name": "Edwin Neal",
+      "role": "Hitchhiker"
+    },
+    {
+      "name": "Jim Siedow",
+      "role": "Old Man"
+    },
+    {
+      "name": "Gunnar Hansen",
+      "role": "Leatherface"
+    },
+    {
+      "name": "John Dugan",
+      "role": "Grandfather"
+    }
+  ],
+  "box_office": {
+    "budget": "$140,000",
+    "gross_us_canada": "$30,859,000",
+    "gross_world": "$30,902,270"
+  },
+  "release_date": "Oct 11, 1974 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 3,
+    "other_nominations": 2
+  }
+},
+
+   {
+  "id": 35,
+  "title": "Deep Red",
+  "metascore": 89,
+  "writer": [
+    "Dario Argento",
+    "Bernardino Zapponi"
+  ],
+  "director": "Dario Argento",
+  "producers": [
+    "Salvatore Argento"
+  ],
+  "composer": [
+    "Giorgio Gaslini",
+    "Goblin"
+  ],
+  "cinematographer": "Luigi Kuveiller",
+  "editors": [
+    "Franco Fraticelli"
+  ],
+  "casting_director": null,
+  "production_designer": "Giuseppe Bassan",
+  "released": 1975,
+  "production_company": "Rizzoli Film",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "synopsis": "A jazz pianist and a wisecracking journalist are pulled into a complex web of mystery after the former witnesses the brutal murder of a psychic.",
+  "duration": 127,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYTg4MjczZWMtMzAzNS00NzUwLWEwNzYtZmUzZGJjNjA1OTdiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDFjMTg0YWUtYzI3NC00ZjIwLTgyN2ItOWM3YTExYjc4ZDJhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=VNmDCXAm1tE",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=IyKVSjZS1Kk&list=PLFZ5kTZU6FleJtM0KknleDc2z0JR2YPCu"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "Youtube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=gWcK6UIa3K4&t=1516s"
+    },
+    {
+      "freeToWatch": "yes",
+      "youtubeLink": "https://www.youtube.com/embed/8JHWw7kveAQ?si=YcDMjmqEs3OZGtQm"
+    }
+  ],
+  "cast": [
+    {
+      "name": "David Hemmings",
+      "role": "Marcus Daly"
+    },
+    {
+      "name": "Daria Nicolodi",
+      "role": "Gianna Brezzi"
+    },
+    {
+      "name": "Gabriele Lavia",
+      "role": "Carlo"
+    },
+    {
+      "name": "Macha Méril",
+      "role": "Helga Ulmann"
+    },
+    {
+      "name": "Eros Pagni",
+      "role": "Calcabrini"
+    },
+    {
+      "name": "Giuliana Calandra",
+      "role": "Amanda Righetti"
+    },
+    {
+      "name": "Piero Mazzinghi",
+      "role": "Bardi"
+    },
+    {
+      "name": "Glauco Mauri",
+      "role": "Giordani"
+    },
+    {
+      "name": "Clara Calamai",
+      "role": "Carlo's Mother"
+    },
+    {
+      "name": "Aldo Bonamano",
+      "role": "Carlo's Father"
+    }
+  ],
+  "box_office": {
+    "budget": null,
+    "gross_us_canada": null,
+    "gross_world": "$67,532"
+  },
+  "release_date": "Jun 11, 1976 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 1,
+    "other_nominations": 1
+  }
+},
+
+    {
+  "id": 36,
+  "title": "Night of the Living Dead",
+  "metascore": 89,
+  "writer": [
+    "John A. Russo",
+    "George A. Romero"
+  ],
+  "director": "George A. Romero",
+  "producers": [
+    "Karl Hardman",
+    "Russell Streiner"
+  ],
+  "composer": null,
+  "cinematographer": null,
+  "editors": null,
+  "casting_director": null,
+  "production_designer": null,
+  "released": 1968,
+  "production_company": "Image Ten",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "synopsis": "A ragtag group of Pennsylvanians barricade themselves in an old farmhouse to remain safe from a horde of flesh-eating ghouls that are ravaging the Northeast of the United States.",
+  "duration": 96,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzRmN2E1ZDUtZDc2ZC00ZmI3LTkwOTctNzE2ZDIzMGJiMTYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY580_CR1,0,392,580_.jpg",
+  "thumbnail": "https://reelsteelcinema.com/wp-content/uploads/2020/09/notld00.png?w=1263&h=1074&crop=1",
+  "trailer": "https://www.youtube.com/watch?v=V5XwrRFP7Zw",
+  "ost": null,
+  "streaming": [
+    {
+      "serviceName": "Youtube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=l-FGlw6jWgQ"
+    },
+    {
+      "freeToWatch": "yes",
+      "youtubeLink": "https://www.youtube.com/embed/l-FGlw6jWgQ?si=-4SETJXLQB_mg-RT"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Duane Jones",
+      "role": "Ben"
+    },
+    {
+      "name": "Judith O'Dea",
+      "role": "Barbra"
+    },
+    {
+      "name": "Karl Hardman",
+      "role": "Harry Cooper"
+    },
+    {
+      "name": "Marilyn Eastman",
+      "role": "Helen Cooper"
+    },
+    {
+      "name": "Keith Wayne",
+      "role": "Tom"
+    },
+    {
+      "name": "Judith Ridley",
+      "role": "Judy"
+    },
+    {
+      "name": "Kyra Schon",
+      "role": "Karen Cooper / Corpse in House"
+    },
+    {
+      "name": "Charles Craig",
+      "role": "Newscaster / Zombie"
+    },
+    {
+      "name": "S. William Hinzman",
+      "role": "Zombie (as Bill Heinzman)"
+    },
+    {
+      "name": "George Kosana",
+      "role": "Sheriff McClelland"
+    }
+  ],
+  "box_office": {
+    "budget": "$114,000",
+    "gross_us_canada": "$236,452",
+    "gross_world": "$236,923"
+  },
+  "release_date": "Oct 4, 1968 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 7,
+    "other_nominations": null
+  }
+},
+
+    {
+  "id": 37,
+  "title": "Hereditary",
+  "metascore": 87,
+  "writer": [
+    "Ari Aster"
+  ],
+  "director": "Ari Aster",
+  "producers": [
+    "Kevin Scott Frakes (p.g.a.) (as Kevin Frakes)",
+    "Lars Knudsen (p.g.a.)",
+    "Buddy Patrick"
+  ],
+  "composer": [
+    "Colin Stetson"
+  ],
+  "cinematographer": "Pawel Pogorzelski",
+  "editors": [
+    "Lucian Johnston",
+    "Jennifer Lame"
+  ],
+  "casting_director": "Jessica Kelly",
+  "production_designer": "Grace Yun",
+  "released": 2018,
+  "production_company": "PalmStar Media",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "synopsis": "A grieving family is haunted by tragic and disturbing occurrences.",
+  "duration": 127,
+  "poster": "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://64.media.tumblr.com/cdf0b8b847667fba161eaaf8ba7b22b5/tumblr_pebycmZl2y1r3741jo6_1280.png",
+  "trailer": "https://www.youtube.com/watch?v=V6wWKNij_1M",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=pN2kMikEDtg&list=PLfzW_wEeYxk5LHTUeHS0NviBVn-bRWX_N"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "Prime Video",
+      "logoUrl": "https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Symbol.png",
+      "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.22b77b2c-dece-47d3-d753-723d6d02deec?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Alex Wolff",
+      "role": "Peter"
+    },
+    {
+      "name": "Gabriel Byrne",
+      "role": "Steve"
+    },
+    {
+      "name": "Toni Collette",
+      "role": "Annie"
+    },
+    {
+      "name": "Milly Shapiro",
+      "role": "Charlie"
+    },
+    {
+      "name": "Christy Summerhays",
+      "role": "Charlie's Teacher"
+    },
+    {
+      "name": "Morgan Lund",
+      "role": "Mr. Davies"
+    },
+    {
+      "name": "Mallory Bechtel",
+      "role": "Bridget"
+    },
+    {
+      "name": "Jake Brown",
+      "role": "Brendan"
+    },
+    {
+      "name": "Harrison Nell",
+      "role": "Student #1"
+    },
+    {
+      "name": "BriAnn Rachele",
+      "role": "Student #2 (as Briann Rachele)"
+    }
+  ],
+  "box_office": {
+    "budget": "$10,000,000",
+    "gross_us_canada": "$44,069,456",
+    "gross_world": "$87,825,916"
+  },
+  "release_date": "Jun 8, 2018 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 50,
+    "other_nominations": 113
+  }
+},
+
+   {
+  "id": 39,
+  "title": "The Exorcist",
+  "metascore": 83,
+  "writer": [
+    "William Peter Blatty"
+  ],
+  "director": "William Friedkin",
+  "producers": [
+    "William Peter Blatty"
+  ],
+  "composer": [
+    "Jack Nitzsche",
+    "Anton Webern",
+    "Krzysztof Penderecki"
+  ],
+  "cinematographer": "Owen Roizman",
+  "editors": [
+    "Norman Gay",
+    "Evan A. Lottman (as Evan Lottman)"
+  ],
+  "casting_director": [
+    "Louis DiGiaimo (as Louis DiGiamo)",
+    "Nessa Hyams",
+    "Juliet Taylor"
+  ],
+  "production_designer": [
+    "Bill Malley",
+    "Gene Rudolf (art director)"
+  ],
+  "released": 1973,
+  "production_company": "Warner Bros.",
+  "genre": [
+    "Horror"
+  ],
+  "synopsis": "When a mysterious entity possesses a young girl, her mother seeks the help of two Catholic priests to save her life.",
+  "duration": 122,
+  "poster": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjJlMGZiMjYtOTZmNS00MTczLTllN2YtY2FlZGU0OGI4NjM0XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_UY218_CR55,0,218,218_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=PjD42P7BAaA",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=1c6g6vXzAHU"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Ellen Burstyn",
+      "role": "Chris MacNeil"
+    },
+    {
+      "name": "Max von Sydow",
+      "role": "Father Merrin"
+    },
+    {
+      "name": "Lee J. Cobb",
+      "role": "Lt. Kinderman"
+    },
+    {
+      "name": "Kitty Winn",
+      "role": "Sharon"
+    },
+    {
+      "name": "Jack MacGowran",
+      "role": "Burke Dennings"
+    },
+    {
+      "name": "Jason Miller",
+      "role": "Father Karras"
+    },
+    {
+      "name": "Linda Blair",
+      "role": "Regan"
+    },
+    {
+      "name": "William O'Malley",
+      "role": "Father Dyer (as Reverend William O'Malley S.J.)"
+    },
+    {
+      "name": "Barton Heyman",
+      "role": "Dr. Klein"
+    }
+  ],
+  "box_office": {
+    "budget": "$11,000,000",
+    "gross_us_canada": "$233,005,644",
+    "gross_world": "$430,872,776"
+  },
+  "release_date": "Dec 26, 1973 (United States)",
+  "awards": {
+    "nominated_for_oscar": 2,
+    "other_wins": 16,
+    "other_nominations": 21
+  }
+},
+
+   {
+  "id": 40,
+  "title": "Under the Skin",
+  "metascore": 83,
+  "writer": [
+    "Walter Campbell",
+    "Jonathan Glazer",
+    "Michel Faber"
+  ],
+  "director": "Jonathan Glazer",
+  "producers": [
+    "Nick Wechsler",
+    "James Wilson"
+  ],
+  "composer": "Mica Levi",
+  "cinematographer": "Daniel Landin",
+  "editors": [
+    "Paul Watts"
+  ],
+  "casting_director": "Kahleen Crawford",
+  "production_designer": "Chris Oddy",
+  "released": 2013,
+  "production_company": "Film4",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "synopsis": "A mysterious young woman seduces lonely men in the evening hours in Scotland. However, events lead her to begin a process of self-discovery.",
+  "duration": 108,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTU1MDEwMDg4Nl5BMl5BanBnXkFtZTgwOTk3NTcxMTE@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://cdn.vox-cdn.com/thumbor/EQCmwdESgrPMlJumtkjqwGHvPA0=/96x0:922x551/2050x1367/cdn.vox-cdn.com/uploads/chorus_image/image/31457337/undertheskin_promotionalstill3_1020.0.jpg",
+  "trailer": "https://www.youtube.com/watch?v=J7bAZCOk0Sc",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=1LaAkoZw8uY&list=PLPz8YqTp2i1SZnM-3t1CQvtwGMEWcVjaj"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Scarlett Johansson",
+      "role": "The Female"
+    },
+    {
+      "name": "Jeremy McWilliams",
+      "role": "The Bad Man"
+    },
+    {
+      "name": "Lynsey Taylor Mackay",
+      "role": "The Dead Woman"
+    },
+    {
+      "name": "Dougie McConnell",
+      "role": "Pick-Up Man"
+    },
+    {
+      "name": "Kevin McAlinden",
+      "role": "First Victim"
+    },
+    {
+      "name": "D. Meade",
+      "role": "Leering Man"
+    },
+    {
+      "name": "Andrew Gorman",
+      "role": "Second Victim"
+    },
+    {
+      "name": "Joe Szula",
+      "role": "Man at Club"
+    },
+    {
+      "name": "Krystof Hádek",
+      "role": "The Swimmer (as Krystof Hadek)"
+    }
+  ],
+  "box_office": {
+    "budget": "$13,300,000",
+    "gross_us_canada": "$2,614,251",
+    "gross_world": "$7,494,387"
+  },
+  "release_date": "Apr 18, 2014 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 23,
+    "other_nominations": 110
+  }
+},
+
+   {
+  "id": 41,
+  "title": "Green Room",
+  "metascore": 79,
+  "writer": [
+    "Jeremy Saulnier"
+  ],
+  "director": "Jeremy Saulnier",
+  "producers": [
+    "Neil Kopp",
+    "Victor Moyers",
+    "Anish Savjani"
+  ],
+  "composer": [
+    "Brooke Blair",
+    "Will Blair"
+  ],
+  "cinematographer": "Sean Porter",
+  "editors": [
+    "Julia Bloch"
+  ],
+  "casting_director": "Avy Kaufman",
+  "production_designer": "Ryan Warren Smith",
+  "released": 2015,
+  "production_company": "Broad Green Pictures",
+  "genre": [
+    "Crime",
+    "Horror",
+    "Music"
+  ],
+  "synopsis": "A punk rock band is forced to fight for survival after witnessing a murder at a neo-Nazi skinhead bar.",
+  "duration": 95,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjU1ODQ5NzA0N15BMl5BanBnXkFtZTgwMDg5MTA5NzE@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYyNTUxODgwMl5BMl5BanBnXkFtZTgwNjEyNjA4ODE@._V1_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=Q8XSARX3DQg",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=XxDfQqmRQwc&list=OLAK5uy_n1MXoQHRud9MIAZDQoEAABx3sm-uke7OM"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Anton Yelchin",
+      "role": "Pat"
+    },
+    {
+      "name": "Joe Cole",
+      "role": "Reece"
+    },
+    {
+      "name": "Alia Shawkat",
+      "role": "Sam"
+    },
+    {
+      "name": "Callum Turner",
+      "role": "Tiger"
+    },
+    {
+      "name": "David Thompson",
+      "role": "Tad (as David W. Thompson)"
+    },
+    {
+      "name": "Mark Webber",
+      "role": "Daniel"
+    },
+    {
+      "name": "Macon Blair",
+      "role": "Gabe"
+    },
+    {
+      "name": "Eric Edelstein",
+      "role": "Big Justin"
+    },
+    {
+      "name": "Michael Draper",
+      "role": "Stagehand"
+    }
+  ],
+  "box_office": {
+    "budget": "$5,000,000",
+    "gross_us_canada": "$3,220,371",
+    "gross_world": "$3,767,402"
+  },
+  "release_date": "May 13, 2016 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 8,
+    "other_nominations": 25
+  }
+},
+
+    {
+  "id": 42,
+  "title": "Poltergeist",
+  "metascore": 79,
+  "writer": [
+    "Steven Spielberg",
+    "Michael Grais",
+    "Mark Victor"
+  ],
+  "director": "Tobe Hooper",
+  "producers": [
+    "Frank Marshall",
+    "Steven Spielberg"
+  ],
+  "composer": "Jerry Goldsmith",
+  "cinematographer": "Matthew F. Leonetti",
+  "editors": [
+    "Michael Kahn"
+  ],
+  "casting_director": [
+    "Jane Feinberg",
+    "Mike Fenton",
+    "Marci Liroff"
+  ],
+  "production_designer": "James H. Spencer",
+  "released": 1982,
+  "production_company": "Metro-Goldwyn-Mayer (MGM)",
+  "genre": [
+    "Horror",
+    "Thriller"
+  ],
+  "synopsis": "A family's home is haunted by a host of demonic ghosts.",
+  "duration": 114,
+  "poster": "https://m.media-amazon.com/images/M/MV5BODJiZTU1ZTMtZTEzMy00NzFmLWJjNzctZTc2MDcwZjE1MDBjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGNiM2Y1ZDAtOGVkYy00YTVlLWIwMjgtOTJjNTFjNWJlZTZlXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY218_CR152,0,218,218_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=sCi3t3vMwrY",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=PZ5bIZhrXIg&list=PLwd2dpqAu5rhWZHBH5IU2HeTlttoNgAJq"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Craig T. Nelson",
+      "role": "Steve Freeling"
+    },
+    {
+      "name": "JoBeth Williams",
+      "role": "Diane Freeling (as Jobeth Williams)"
+    },
+    {
+      "name": "Beatrice Straight",
+      "role": "Dr. Lesh"
+    },
+    {
+      "name": "Dominique Dunne",
+      "role": "Dana Freeling"
+    },
+    {
+      "name": "Oliver Robins",
+      "role": "Robbie Freeling"
+    },
+    {
+      "name": "Heather O'Rourke",
+      "role": "Carol Anne Freeling"
+    },
+    {
+      "name": "Michael McManus",
+      "role": "Ben Tuthill"
+    },
+    {
+      "name": "Virginia Kiser",
+      "role": "Mrs. Tuthill"
+    },
+    {
+      "name": "Martin Casella",
+      "role": "Marty"
+    },
+    {
+      "name": "Richard Lawson",
+      "role": "Ryan"
+    }
+  ],
+  "box_office": {
+    "budget": "$10,700,000",
+    "gross_us_canada": "$77,177,301",
+    "gross_world": "$77,231,990"
+  },
+  "release_date": "Jun 4, 1982 (United States)",
+  "awards": {
+    "nominated_for_oscar": 3,
+    "other_wins": 5,
+    "other_nominations": 6
+  }
+},
+
+   {
+  "id": 43,
+  "title": "Speak No Evil",
+  "metascore": 78,
+  "writer": [
+    "Christian Tafdrup",
+    "Mads Tafdrup",
+    "James Watkins"
+  ],
+  "director": "Christian Tafdrup",
+  "producers": [
+    "Jason Blum"
+  ],
+  "composer": [
+    "Sune Kølster",
+    "Danny Bensi",
+    "Saunder Jurriaans"
+  ],
+  "cinematographer": "Tim Maurice-Jones",
+  "editors": [
+    "Jon Harris"
+  ],
+  "casting_director": [
+    "Heather Basten"
+  ],
+  "production_designer": null,
+  "released": 2024,
+  "production_company": "Profile Pictures",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Thriller"
+  ],
+  "synopsis": "A Danish family visits a Dutch family they met on a holiday. What was supposed to be an idyllic weekend slowly starts unraveling as the Danes try to stay polite in the face of unpleasantness.",
+  "duration": 97,
+  "poster": "https://m.media-amazon.com/images/M/MV5BNWRhMjcwYjMtZDg2ZC00YmI1LWIwM2MtOTBhNmQ4OWUwYjgxXkEyXkFqcGdeQXVyNDgyNzAxMzY@._V1_UY580_CR7,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDcyNGY1NWYtMGJmNi00OGQyLWE2MTYtMmM5NDFmMzVkZGEwXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=UhWiiDhmBCM",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=Z3xUSZ7hNWA&list=OLAK5uy_lCP6dO3LPuoIx855y5KvXRoRx-cimnhRQ"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "James McAvoy",
+      "role": "Paddy"
+    },
+    {
+      "name": "Mackenzie Davis",
+      "role": "Louise Dalton"
+    },
+    {
+      "name": "Scoot McNairy",
+      "role": "Ben Dalton"
+    },
+    {
+      "name": "Aisling Franciosi",
+      "role": "Ciara"
+    },
+    {
+      "name": "Alix West Lefler",
+      "role": "Agnes Dalton"
+    },
+    {
+      "name": "Dan Hough",
+      "role": "Ant"
+    },
+    {
+      "name": "Kris Hitchen",
+      "role": "Actor"
+    },
+    {
+      "name": "Motaz Malhees",
+      "role": "Muhjid"
+    }
+  ],
+  "box_office": {
+    "budget": null,
+    "gross_us_canada": null,
+    "gross_world": null
+  },
+  "release_date": "Sep 13, 2024 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": null,
+    "other_nominations": null
+  }
+},
+
+   {
+  "id": 44,
+  "title": "Mother!",
+  "metascore": 76,
+  "writer": [
+    "Darren Aronofsky"
+  ],
+  "director": "Darren Aronofsky",
+  "producers": [
+    "Scott Franklin",
+    "Ari Handel"
+  ],
+  "composer": null,
+  "cinematographer": "Matthew Libatique",
+  "editors": [
+    "Andrew Weisblum"
+  ],
+  "casting_director": [
+    "Lindsay Graham",
+    "Mary Vernieu"
+  ],
+  "production_designer": "Philip Messina",
+  "released": 2017,
+  "production_company": "Paramount Pictures",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "synopsis": "A couple's relationship is tested when uninvited guests arrive at their home, disrupting their tranquil existence.",
+  "duration": 121,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzc5ODExODE0MV5BMl5BanBnXkFtZTgwNDkzNDUxMzI@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://www2.bfi.org.uk/sites/bfi.org.uk/files/styles/full/public/image/mother-2017-005-jennifer-lawrence-hands-wall.jpg?itok=YickxXOi",
+  "trailer": "https://www.youtube.com/watch?v=XpICoc65uh0",
+  "ost": null,
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jennifer Lawrence",
+      "role": "Mother"
+    },
+    {
+      "name": "Javier Bardem",
+      "role": "Him"
+    },
+    {
+      "name": "Ed Harris",
+      "role": "Man"
+    },
+    {
+      "name": "Michelle Pfeiffer",
+      "role": "Woman"
+    },
+    {
+      "name": "Brian Gleeson",
+      "role": "Younger Brother"
+    },
+    {
+      "name": "Domhnall Gleeson",
+      "role": "Oldest Son"
+    },
+    {
+      "name": "Jovan Adepo",
+      "role": "Cupbearer"
+    },
+    {
+      "name": "Amanda Chiu",
+      "role": "Damsel"
+    },
+    {
+      "name": "Patricia Summersett",
+      "role": "Consoler"
+    },
+    {
+      "name": "Eric Davis",
+      "role": "Bumbler"
+    }
+  ],
+  "box_office": {
+    "budget": "$30,000,000",
+    "gross_us_canada": "$17,800,004",
+    "gross_world": "$44,516,999"
+  },
+  "release_date": "Sep 15, 2017 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 9,
+    "other_nominations": 53
+  }
+},
+
+   {
+  "id": 45,
+  "title": "The Invitation",
+  "metascore": 74,
+  "writer": [
+    "Phil Hay",
+    "Matt Manfredi"
+  ],
+  "director": "Karyn Kusama",
+  "producers": [
+    "Martha Griffin",
+    "Phil Hay",
+    "Matt Manfredi",
+    "Nick Spicer"
+  ],
+  "composer": "Theodore Shapiro",
+  "cinematographer": "Bobby Shore",
+  "editors": [
+    "Plummy Tucker"
+  ],
+  "casting_director": [
+    "Sig De Miguel",
+    "Stephen Vincent"
+  ],
+  "production_designer": "Almitra Corey",
+  "released": 2015,
+  "production_company": "Gamechanger Films",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "synopsis": "When a man accepts an invitation to a dinner party hosted by his ex-wife, the unsettling past reopens old wounds and creates new tensions.",
+  "duration": 100,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTkzODMwNDkzOF5BMl5BanBnXkFtZTgwNDA4NzA1ODE@._V1_UY580_CR3,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTM0NzViNzAtOTUyYS00YTQ3LWEwODgtMjUwODc0YmFjN2I3XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_UY218_CR146,0,218,218_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=0-mp77SZ_0M",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=V6cRbXRiTC0&list=OLAK5uy_m7gX98Jil26TG5pNLpnmadX9oDitTEXOc"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "",
+      "logoUrl": "",
+      "serviceUrl": ""
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Logan Marshall-Green",
+      "role": "Will"
+    },
+    {
+      "name": "Tammy Blanchard",
+      "role": "Eden"
+    },
+    {
+      "name": "Emayatzy Corinealdi",
+      "role": "Kira"
+    },
+    {
+      "name": "Aiden Lovekamp",
+      "role": "Ty"
+    },
+    {
+      "name": "Michelle Krusiec",
+      "role": "Gina"
+    },
+    {
+      "name": "Mike Doyle",
+      "role": "Tommy"
+    },
+    {
+      "name": "Jordi Vilasuso",
+      "role": "Miguel"
+    },
+    {
+      "name": "Jay Larson",
+      "role": "Ben"
+    },
+    {
+      "name": "Marieh Delfino",
+      "role": "Claire"
+    },
+    {
+      "name": "Michiel Huisman",
+      "role": "David"
+    }
+  ],
+  "box_office": {
+    "budget": null,
+    "gross_us_canada": "$231,737",
+    "gross_world": "$354,835"
+  },
+  "release_date": "Apr 8, 2016 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 4,
+    "other_nominations": 15
+  }
+},
+
+    {
+  "id": 46,
+  "title": "Re-Animator",
+  "metascore": 73,
+  "writer": [
+    "H.P. Lovecraft",
+    "Dennis Paoli",
+    "William Norris",
+    "Stuart Gordon"
+  ],
+  "director": "Stuart Gordon",
+  "producers": [
+    "Brian Yuzna"
+  ],
+  "composer": "Richard Band",
+  "cinematographer": "Mac Ahlberg",
+  "editors": [
+    "Lee Percy"
+  ],
+  "casting_director": "Anthony Barnao",
+  "production_designer": null,
+  "released": 1985,
+  "production_company": "Empire Pictures",
+  "genre": [
+    "Comedy",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "synopsis": "After an odd new medical student arrives on campus, a dedicated local and his girlfriend become involved in bizarre experiments centering around the re-animation of dead tissue.",
+  "duration": 84,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjcxOTcwZDAtYjg4Ny00YzUzLWJkNDgtMzhkMDJlOTg1YTFiXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzRiZjI0OGUtNmJjNy00ZDBlLTg0N2MtYjBkMjljZGI2YmYyXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=wLJ8Z3PDEGU",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=kVolclbGBtU"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "Youtube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=I1Wys_TcsKg&t=661s"
+    },
+    {
+      "freeToWatch": "yes",
+      "youtubeLink": "https://www.youtube.com/embed/I1Wys_TcsKg?si=HoAsd9vR5amKsIVX"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Jeffrey Combs",
+      "role": "Herbert West"
+    },
+    {
+      "name": "Bruce Abbott",
+      "role": "Dan Cain"
+    },
+    {
+      "name": "Barbara Crampton",
+      "role": "Megan Halsey"
+    },
+    {
+      "name": "David Gale",
+      "role": "Dr. Carl Hill"
+    },
+    {
+      "name": "Robert Sampson",
+      "role": "Dean Halsey"
+    },
+    {
+      "name": "Gerry Black",
+      "role": "Mace"
+    },
+    {
+      "name": "Carolyn Purdy-Gordon",
+      "role": "Dr. Harrod"
+    },
+    {
+      "name": "Peter Kent",
+      "role": "Melvin the Re-Animated"
+    },
+    {
+      "name": "Barbara Pieters",
+      "role": "Nurse"
+    },
+    {
+      "name": "Ian Patrick Williams",
+      "role": "Swiss Professor"
+    }
+  ],
+  "box_office": {
+    "budget": "$900,000",
+    "gross_us_canada": "$2,023,414",
+    "gross_world": "$2,024,021"
+  },
+  "release_date": "Oct 18, 1985 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 4,
+    "other_nominations": 4
+  }
+},
+
+   {
+  "id": 47,
+  "title": "Midsommar",
+  "metascore": 72,
+  "writer": [
+    "Ari Aster"
+  ],
+  "director": "Ari Aster",
+  "producers": [
+    "Patrik Andersson",
+    "Lars Knudsen",
+    "Viktória Petrányi"
+  ],
+  "composer": "The Haxan Cloak (as Bobby Krlic)",
+  "cinematographer": "Pawel Pogorzelski",
+  "editors": [
+    "Lucian Johnston"
+  ],
+  "casting_directors": [
+    "Jessica Kelly",
+    "Jeanette Klintberg"
+  ],
+  "production_designer": "Henrik Svensson",
+  "released": 2019,
+  "production_company": "A24",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "synopsis": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+  "duration": 148,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://www.norwichfilmfestival.co.uk/wp-content/uploads/2019/07/midsommar.jpg",
+  "trailer": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=15FrzbM4Ej8"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "Home Of Horror",
+      "logoUrl": "https://www.film-rezensionen.de/wp-content/uploads/2020/06/Home-of-Horror.jpg",
+      "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.eab6b143-8a2c-7bb4-1f20-322a56b8b9f0?ref_=imdbref_tt_wbr_ovf__pvc_homeofhorror&tag=imdbtag_tt_wbr_ovf__pvc_homeofhorror_de-21"
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Florence Pugh",
+      "role": "Dani"
+    },
+    {
+      "name": "Jack Reynor",
+      "role": "Christian"
+    },
+    {
+      "name": "Vilhelm Blomgren",
+      "role": "Pelle"
+    },
+    {
+      "name": "William Jackson Harper",
+      "role": "Josh"
+    },
+    {
+      "name": "Will Poulter",
+      "role": "Mark"
+    },
+    {
+      "name": "Ellora Torchia",
+      "role": "Connie"
+    },
+    {
+      "name": "Archie Madekwe",
+      "role": "Simon"
+    },
+    {
+      "name": "Henrik Norlén",
+      "role": "Ulf"
+    },
+    {
+      "name": "Gunnel Fred",
+      "role": "Siv"
+    },
+    {
+      "name": "Isabelle Grill",
+      "role": "Maja"
+    }
+  ],
+  "box_office": {
+    "budget": "$9,000,000",
+    "gross_us_canada": "$27,426,361",
+    "gross_world": "$48,015,416"
+  },
+  "release_date": "Jul 3, 2019 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 27,
+    "other_nominations": 74
+  }
+},
+
+    {
+  "id": 48,
+  "title": "Inferno",
+  "metascore": 69,
+  "writer": [
+    "Dario Argento"
+  ],
+  "director": "Dario Argento",
+  "producers": [
+    "Claudio Argento"
+  ],
+  "composer": "Keith Emerson",
+  "cinematographer": "Romano Albani",
+  "editors": [
+    "Franco Fraticelli"
+  ],
+  "casting_director": null,
+  "production_designer": null,
+  "released": 1980,
+  "production_company": "Produzioni Intersound",
+  "genre": [
+    "Horror"
+  ],
+  "synopsis": "An American student investigates the disappearance of his sister and the death of a friend, both connected from New York to Rome by an old alchemy book.",
+  "duration": 106,
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2U3YmMyMzMtYTY4MC00NmNiLThmMzUtMDEyNDJiMjFhNDFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzU4NDY1ZmQtZDliMy00YTczLWIwMTAtMDIzYTkzZDgwNzdjXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=qbKgG_TC_To",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=0U5JApvuhH0"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "Youtube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=iKSw6yOOgD4"
+    },
+    {
+      "freeToWatch": "yes",
+      "youtubeLink": "https://www.youtube.com/embed/iKSw6yOOgD4?si=y3nsL5TYy9OyMnK7"
+    }
+  ],
+  "cast": [
+    {
+      "name": "Leigh McCloskey",
+      "role": "Mark Elliot"
+    },
+    {
+      "name": "Irene Miracle",
+      "role": "Rose Elliot"
+    },
+    {
+      "name": "Eleonora Giorgi",
+      "role": "Sara"
+    },
+    {
+      "name": "Daria Nicolodi",
+      "role": "Elise De Longvalle Adler"
+    },
+    {
+      "name": "Sacha Pitoëff",
+      "role": "Kazanian (as Sacha Pitoeff)"
+    },
+    {
+      "name": "Alida Valli",
+      "role": "Carol, the caretaker"
+    },
+    {
+      "name": "Veronica Lazar",
+      "role": "The Nurse / Mater Tenebrarum"
+    },
+    {
+      "name": "Gabriele Lavia",
+      "role": "Carlo"
+    },
+    {
+      "name": "Feodor Chaliapin Jr.",
+      "role": "Professor Arnold / Dr. Varelli (as Feodor Chaliapin)"
+    },
+    {
+      "name": "Leopoldo Mastelloni",
+      "role": "John, the Butler"
+    }
+  ],
+  "box_office": {
+    "budget": "ITL3,000,000",
+    "gross_us_canada": null,
+    "gross_world": null
+  },
+  "release_date": "Apr 2, 1980 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": null,
+    "other_nominations": null
+  }
+},
+
+   {
+  "id": 49,
+  "title": "Crimes of the Future",
+  "metascore": 68,
+  "writer": [
+    "David Cronenberg"
+  ],
+  "director": "David Cronenberg",
+  "producers": [
+    "Panos Papahadzis",
+    "Steve Solomos"
+  ],
+  "composer": "Howard Shore",
+  "cinematographer": "Douglas Koch",
+  "editors": [
+    "Christopher Donaldson"
+  ],
+  "casting_director": "Deirdre Bowen",
+  "production_designer": "Carol Spier",
+  "released": 2022,
+  "production_company": "Serendipity Point Films",
+  "genre": [
+    "Drama",
+    "Horror",
+    "Sci-Fi"
+  ],
+  "synopsis": "Humans adapt to a synthetic environment, with new transformations and mutations. With his partner Caprice, Saul Tenser, celebrity performance artist, publicly showcases the metamorphosis of his organs in avant-garde performances.",
+  "duration": 107,
+  "poster": "https://m.media-amazon.com/images/M/MV5BZDdjODNkMmYtYjMwNS00NTQzLThlYjUtODY2ZjdjNTNlY2JiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzY4NGFjYjUtNDUxNS00NjRkLTg4MzItY2ZlYWZlNzZjYzUyXkEyXkFqcGdeQWRpZWdtb25n._V1_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=Bw4wiiLv-VU",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=_2XVepRkYkE&list=PLsLT_0WUX8XNIRb48UpRN51atC1XdBNT2"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "Prime Video",
+      "logoUrl": "https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Symbol.png",
+      "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.22bc5739-dcc6-45ab-b8f6-3f9c0d607427?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Sotiris Siozos",
+      "role": "Brecken"
+    },
+    {
+      "name": "Lihi Kornowski",
+      "role": "Djuna"
+    },
+    {
+      "name": "Scott Speedman",
+      "role": "Lang Dotrice"
+    },
+    {
+      "name": "Viggo Mortensen",
+      "role": "Saul Tenser"
+    },
+    {
+      "name": "Léa Seydoux",
+      "role": "Caprice"
+    },
+    {
+      "name": "Don McKellar",
+      "role": "Wippet"
+    },
+    {
+      "name": "Kristen Stewart",
+      "role": "Timlin"
+    },
+    {
+      "name": "Nadia Litz",
+      "role": "Router"
+    },
+    {
+      "name": "Tanaya Beatty",
+      "role": "Berst"
+    },
+    {
+      "name": "Mihalis Valasoglou",
+      "role": "NVU Agent"
+    }
+  ],
+  "box_office": {
+    "budget": "$35,000,000",
+    "gross_us_canada": "$2,452,882",
+    "gross_world": "$4,551,565"
+  },
+  "release_date": "Jun 3, 2022 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 13,
+    "other_nominations": 36
+  }
+},
+
+   {
+  "id": 50,
+  "title": "Get Out",
+  "metascore": 85,
+  "writer": [
+    "Jordan Peele"
+  ],
+  "director": "Jordan Peele",
+  "producers": [
+    "Jason Blum",
+    "Edward H. Hamm Jr.",
+    "Sean McKittrick",
+    "Jordan Peele"
+  ],
+  "composer": "Michael Abels",
+  "cinematographer": "Toby Oliver",
+  "editors": [
+    "Gregory Plotkin"
+  ],
+  "casting_director": "Terri Taylor",
+  "production_designer": "Rusty Smith",
+  "released": 2017,
+  "production_company": "Universal Pictures",
+  "genre": [
+    "Horror",
+    "Mystery",
+    "Thriller"
+  ],
+  "synopsis": "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+  "duration": 104,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjM5MTYyNGItYmFlYi00NDIwLWE0MjYtNTdkM2VjODI5ZjgwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY218_CR152,0,218,218_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=koQKnuQb7zQ",
+  "ost": [
+    {
+      "serviceName": "YouTube",
+      "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+      "serviceUrl": "https://www.youtube.com/watch?v=IlEftUcBxWc&list=OLAK5uy_nhQdJL2mVF4mu5svvk60EtI3ceRdUCMIE"
+    }
+  ],
+  "streaming": [
+    {
+      "serviceName": "Netflix",
+      "logoUrl": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
+      "serviceUrl": "https://www.netflix.com/de-en/title/80149258?source=imdb"
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Daniel Kaluuya",
+      "role": "Chris Washington"
+    },
+    {
+      "name": "Allison Williams",
+      "role": "Rose Armitage"
+    },
+    {
+      "name": "Catherine Keener",
+      "role": "Missy Armitage"
+    },
+    {
+      "name": "Bradley Whitford",
+      "role": "Dean Armitage"
+    },
+    {
+      "name": "Caleb Landry Jones",
+      "role": "Jeremy Armitage"
+    },
+    {
+      "name": "Marcus Henderson",
+      "role": "Walter"
+    },
+    {
+      "name": "Betty Gabriel",
+      "role": "Georgina"
+    },
+    {
+      "name": "LaKeith Stanfield",
+      "role": "Andre Logan King"
+    },
+    {
+      "name": "Stephen Root",
+      "role": "Jim Hudson"
+    },
+    {
+      "name": "Lil Rel Howery",
+      "role": "Rod Williams"
+    }
+  ],
+  "box_office": {
+    "budget": "$4,500,000",
+    "gross_us_canada": "$176,196,665",
+    "gross_world": "$255,751,443"
+  },
+  "release_date": "Feb 24, 2017 (United States)",
+  "awards": {
+    "nominated_for_oscar": 4,
+    "other_wins": 152,
+    "other_nominations": 214
+  }
+},
+
+   {
+  "id": 51,
+  "title": "Under the Shadow",
+  "metascore": 83,
+  "writer": [
+    "Babak Anvari"
+  ],
+  "director": "Babak Anvari",
+  "producers": [
+    "Emily Leo",
+    "Oliver Roskill",
+    "Lucan Toh"
+  ],
+  "composer": [
+    "Gavin Cullen",
+    "Will McGillivray"
+  ],
+  "cinematographer": "Kit Fraser",
+  "editors": [
+    "Chris Barwell"
+  ],
+  "casting_director": null,
+  "production_designer": "Nasser Zoubi",
+  "released": 2016,
+  "production_company": "Wigwam Films",
+  "genre": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "synopsis": "As a mother and daughter struggle to cope with the terrors of the post-revolution, war-torn Tehran of the 1980s, a mysterious evil begins to haunt their home.",
+  "duration": 84,
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjIwMjQwMDU2OV5BMl5BanBnXkFtZTgwNzMwMDg2OTE@._V1_UX392_CR0,0,392,580_.jpg",
+  "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjAwODNkMDAtNTUwNi00YTc2LTlhZjctNzE4N2VjMTk2MmE3XkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_UY218_CR151,0,218,218_.jpg",
+  "trailer": "https://www.youtube.com/watch?v=G_ATX4C8Pmw",
+  "ost": null,
+  "streaming": [
+    {
+      "serviceName": "Netflix",
+      "logoUrl": "https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940",
+      "serviceUrl": "https://www.netflix.com/de-en/title/80096786?source=imdb"
+    },
+    {
+      "freeToWatch": "no",
+      "youtubeLink": ""
+    }
+  ],
+  "cast": [
+    {
+      "name": "Narges Rashidi",
+      "role": "Shideh"
+    },
+    {
+      "name": "Avin Manshadi",
+      "role": "Dorsa"
+    },
+    {
+      "name": "Bobby Naderi",
+      "role": "Iraj"
+    },
+    {
+      "name": "Arash Marandi",
+      "role": "Dr. Reza"
+    },
+    {
+      "name": "Aram Ghasemy",
+      "role": "Mrs. Ebrahimi"
+    },
+    {
+      "name": "Soussan Farrokhnia",
+      "role": "Mrs. Fakur"
+    },
+    {
+      "name": "Ray Haratian",
+      "role": "Mr. Ebrahimi"
+    },
+    {
+      "name": "Hamid Djavadan",
+      "role": "Mr. Fakur (as Hamidreza Djavdan)"
+    },
+    {
+      "name": "Behi Djanati Atai",
+      "role": "Pargol"
+    },
+    {
+      "name": "Bijan Daneshmand",
+      "role": "Director"
+    }
+  ],
+  "box_office": {
+    "budget": null,
+    "gross_us_canada": "$31,900",
+    "gross_world": "$133,324"
+  },
+  "release_date": "Oct 7, 2016 (United States)",
+  "awards": {
+    "nominated_for_oscar": null,
+    "other_wins": 20,
+    "other_nominations": 23
+  }
+},
+
+   {
+     "id": 52,
+     "title": "One Cut of the Dead",
+     "metascore": 86,
+     "writer": ["Shin'ichirô Ueda", "Ryoichi Wada"],
+     "director": "Shin'ichirô Ueda",
+     "producers": ["Koji Ichihashi (as Kôji Ichihashi)"],
+     "composer": [
+       "Shôma Itô",
+       "Kyle Nagai (as Kairu Nagai)",
+       "Suzuki Nobuhiro"
+     ],
+     "cinematographer": "Takeshi Sone",
+     "editors": ["Shin'ichirô Ueda"],
+     "casting_director": null,
+     "production_designer": null,
+     "released": 2017,
+     "production_company": "ENBU Seminar",
+     "genre": ["Comedy", "Drama", "Horror"],
+     "synopsis": "Things go badly for a hack director and film crew shooting a low budget zombie movie in an abandoned WWII Japanese facility, when they are attacked by real zombies.",
+     "duration": 96,
+     "poster": "https://m.media-amazon.com/images/M/MV5BY2RhNTVhMTEtMzgyNi00NDg1LWIwYjktOTcxNDQyM2ZjNDE1XkEyXkFqcGdeQXVyMTY1NzY2NA@@._V1_UY580_CR9,0,392,580_.jpg",
+     "thumbnail": "https://assets.mubicdn.net/images/artworks/494090/images-original.png?1668165935",
+     "trailer": "https://www.youtube.com/watch?v=4wBImbHqhFk",
+     "ost": [
+       {
+         "serviceName": "YouTube",
+         "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+         "serviceUrl": "https://www.youtube.com/watch?v=gEgyrFWhXY8"
+       }
+     ],
+     
+     "streaming": [
+       {
+         "serviceName": "Prime Video",
+         "logoUrl": "https://logos-world.net/wp-content/uploads/2021/02/Amazon-Prime-Video-Symbol.png",
+         "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.f8af6f59-fa3a-495a-8328-4493c5bfc96f?ref_=imdbref_tt_wbr_ovf__pvs_piv&tag=imdbtag_tt_wbr_ovf__pvs_piv_de-21"
+       },
+       {
+         "freeToWatch": "no",
+         "youtubeLink": ""
+       }
+     ],
+     "cast": [
+       {
+         "name": "Takayuki Hamatsu",
+         "role": "Director Higurashi"
+       },
+       {
+         "name": "Yuzuki Akiyama",
+         "role": "Chinatsu"
+       },
+       {
+         "name": "Harumi Shuhama",
+         "role": "Nao"
+       },
+       {
+         "name": "Kazuaki Nagaya",
+         "role": "Ko"
+       },
+       {
+         "name": "Manabu Hosoi",
+         "role": "Manabu Hosoda"
+       },
+       {
+         "name": "Hiroshi Ichihara",
+         "role": "Kasahara"
+       },
+       {
+         "name": "Mao",
+         "role": "Mao"
+       },
+       {
+         "name": "Shuntarô Yamazaki",
+         "role": "Shunsuke Yamakoshi"
+       },
+       {
+         "name": "Shin'ichirô Ôsawa",
+         "role": "Shinichiro Furusawa"
+       },
+       {
+         "name": "Yoshiko Takehara",
+         "role": "Yoshiko Sasahara (as Donguri [Yoshiko Takehara])"
+       }
+     ],
+     "box_office": {
+       "budget": "¥3,000,000",
+       "gross_us_canada": "$52,406",
+       "gross_world": "$27,590,180"
+     },
+     "release_date": "Sep 24, 2019 (United States)",
+     "awards": {
+       "nominated_for_oscar": null,
+       "other_wins": 28,
+       "other_nominations": 19
+     }
+   },
+
     {
       "id": 53,
       "title": "Brain Damage",
@@ -3624,11 +5247,9 @@
       "id": 54,
       "title": "The Witch",
       "metascore": 84,
-      "writer": [
-        "Robert Eggers"
-      ],
+      "writer": ["Robert Eggers"],
       "director": "Robert Eggers",
-      "producer": [
+      "producers": [
         "Daniel Bekerman",
         "Lars Knudsen",
         "Jodi Redmond",
@@ -3642,17 +5263,13 @@
       "production_designer": "Craig Lathrop",
       "released": 2015,
       "production_company": "Parts and Labor",
-      "genre": [
-        "Drama",
-        "Fantasy",
-        "Horror"
-      ],
+      "genre": ["Drama", "Fantasy", "Horror"],
       "synopsis": "A family in 1630s New England is torn apart by the forces of witchcraft, black magic, and possession.",
       "duration": 92,
       "poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_UX392_CR0,0,392,580_.jpg",
       "thumbnail": "https://149362454.v2.pressablecdn.com/previously/wp-content/uploads/sites/5/2016/02/THE-WITCH.jpg",
       "trailer": "https://www.youtube.com/watch?v=iQXmlf3Sefg&t=19s",
-      "ost": "",
+      "ost": null,
       "streaming": [
         {
           "serviceName": "",
@@ -3663,8 +5280,62 @@
           "freeToWatch": "no",
           "youtubeLink": ""
         }
-      ]
+      ],
+      "cast": [
+        {
+          "name": "Anya Taylor-Joy",
+          "role": "Thomasin"
+        },
+        {
+          "name": "Ralph Ineson",
+          "role": "William"
+        },
+        {
+          "name": "Kate Dickie",
+          "role": "Katherine"
+        },
+        {
+          "name": "Harvey Scrimshaw",
+          "role": "Caleb"
+        },
+        {
+          "name": "Ellie Grainger",
+          "role": "Mercy"
+        },
+        {
+          "name": "Lucas Dawson",
+          "role": "Jonas"
+        },
+        {
+          "name": "Julian Richings",
+          "role": "Governor"
+        },
+        {
+          "name": "Bathsheba Garnett",
+          "role": "The Witch"
+        },
+        {
+          "name": "Sarah Stephens",
+          "role": "The Witch, Young"
+        },
+        {
+          "name": "Daniel Malik",
+          "role": "Black Phillip (as Wahab Chaudhry)"
+        }
+      ],
+      "box_office": {
+        "budget": "$4,000,000",
+        "gross_us_canada": "$25,138,705",
+        "gross_world": "$40,423,945"
+      },
+      "release_date": "Feb 19, 2016 (United States)",
+      "awards": {
+        "nominated_for_oscar": null,
+        "other_wins": 43,
+        "other_nominations": 72
+      }
     }
+
     
   ],
   "directors": [
