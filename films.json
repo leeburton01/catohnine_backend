@@ -6014,6 +6014,296 @@
           }
         },
         {
+          "id": 28,
+          "title": "I Saw the TV Glow",
+          "metascore": 86,
+          "metacritic": "https://www.metacritic.com/movie/i-saw-the-tv-glow/",
+          "writer": ["Jane Schoenbrun"],
+          "director": "Jane Schoenbrun",
+          "producers": [
+            "Ali Herting",
+            "Sam Intili",
+            "Dave McCary",
+            "Emma Stone",
+            "Sarah Winshall"
+          ],
+          "composer": "Alex G",
+          "cinematographer": "Eric Yue (as Eric Yue)",
+          "editor": "Sofi Marshall",
+          "casting_directors": [
+            "Geraldine Barón",
+            "Abby Harri",
+            "Salome Oggenfuss"
+          ],
+          "production_designer": "Brandon Tonner-Connolly",
+          "released": 2024,
+          "production_company": "A24",
+          "genre": ["Drama", "Horror"],
+          "synopsis": "Two teenagers bond over their love of a supernatural TV show, but it is mysteriously cancelled.",
+          "duration": 100,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMjcyZjFhYjYtMWYwZS00ZmY4LTgxYTgtODQ4NWFkM2ZiODU0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_UX392_CR0,0,392,580_.jpg",
+          "thumbnail": "https://images.mubicdn.net/images/film/320517/cache-928083-1702462516/image-w1280.jpg?size=800x",
+          "trailer": "https://www.youtube.com/watch?v=kymDzCgPwj0",
+          "ost": [
+            {
+              "serviceName": "YouTube",
+              "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "serviceUrl": "https://www.youtube.com/watch?v=MmdKkUfpRew&list=PLSjzXDvNBfbk7MU0AETnL5sQZmvqa-s4K"
+            }
+          ],
+          "streaming": [
+            {
+              "serviceName": "",
+              "logoUrl": "",
+              "serviceUrl": ""
+            },
+            {
+              "freeToWatch": "no",
+              "youtubeLink": ""
+            }
+          ],
+          "cast": [
+            {
+              "name": "Justice Smith",
+              "role": "Owen"
+            },
+            {
+              "name": "Brigette Lundy-Paine",
+              "role": "Maddy"
+            },
+            {
+              "name": "Ian Foreman",
+              "role": "Young Owen"
+            },
+            {
+              "name": "Helena Howard",
+              "role": "Isabel"
+            },
+            {
+              "name": "Lindsey Jordan",
+              "role": "Tara"
+            },
+            {
+              "name": "Danielle Deadwyler",
+              "role": "Brenda"
+            },
+            {
+              "name": "Fred Durst",
+              "role": "Frank"
+            },
+            {
+              "name": "Conner O'Malley",
+              "role": "Dave"
+            },
+            {
+              "name": "Emma Portner",
+              "role": "Mr. Melancholy / Marco / Amanda / Evil Clown"
+            },
+            {
+              "name": "Madaline Riley",
+              "role": "Polo"
+            }
+          ],
+          "box_office": {
+            "budget": null,
+            "opening_weekend": "$119,015",
+            "gross_us_canada": "$5,017,817",
+            "gross_world": "$5,208,941"
+          },
+          "release_date": "May 17, 2024 (United States)",
+          "awards": {
+            "nominated_for_oscar": null,
+            "other_wins": 3,
+            "other_nominations": 16
+          }
+        },
+        {
+          "id": 31,
+          "title": "A Different Man",
+          "metascore": 74,
+          "metacritic": "https://www.metacritic.com/movie/a-different-man/",
+          "writer": ["Aaron Schimberg"],
+          "director": "Aaron Schimberg",
+          "producers": [
+            "Gabriel Mayers",
+            "Vanessa McDonnell",
+            "Christine Vachon"
+          ],
+          "composer": "Umberto Smerilli",
+          "cinematographer": "Wyatt Garfield",
+          "editor": "Taylor Levy",
+          "casting_director": "Maribeth Fox",
+          "production_designer": "Anna Kathleen",
+          "released": 2024,
+          "production_company": "A24",
+          "genre": ["Comedy", "Horror", "Thriller"],
+          "synopsis": "After undergoing a facial reconstructive surgery, Edward becomes fixated on an actor in a stage production based on his former life.",
+          "duration": 112,
+          "poster": "https://m.media-amazon.com/images/M/MV5BYTQ0NDI2NzItZjNiOC00ZDc0LWJiNGMtMzZmMGM2NmVjMmJkXkEyXkFqcGc@._V1_UX392_CR0,0,392,580_.jpg",
+          "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTE2MjJlMzctMzFlNy00ODU4LWEzNTUtY2EyNWYzYTE4NWE5XkEyXkFqcGdeQXVyMTM3MzcwMjY3._V1_.jpg",
+          "trailer": "https://www.youtube.com/watch?v=_9CmC5Rmsdw",
+          "ost": null,
+          "streaming": [
+            {
+              "serviceName": "",
+              "logoUrl": "",
+              "serviceUrl": ""
+            },
+            {
+              "freeToWatch": "no",
+              "youtubeLink": ""
+            }
+          ],
+          "cast": [
+            {
+              "name": "Sebastian Stan",
+              "role": "Edward"
+            },
+            {
+              "name": "Miles G. Jackson",
+              "role": "Sean"
+            },
+            {
+              "name": "Patrick Wang",
+              "role": "Director"
+            },
+            {
+              "name": "Neal Davidson",
+              "role": "Corey"
+            },
+            {
+              "name": "Jed Rapfogel",
+              "role": "Man In Sunglasses"
+            },
+            {
+              "name": "Marc Geller",
+              "role": "Ragged Man"
+            },
+            {
+              "name": "James Foster Jr.",
+              "role": "Intrusive Man"
+            },
+            {
+              "name": "JJ McGlone",
+              "role": "Casting Director"
+            },
+            {
+              "name": "Sergio Delavicci",
+              "role": "Mover"
+            },
+            {
+              "name": "Lawrence Arancio",
+              "role": "Landlord"
+            }
+          ],
+          "box_office": {
+            "gross_world": "$552"
+          },
+          "release_date": "Jan 21, 2024 (United States)",
+          "awards": {
+            "nominated_for_oscar": null,
+            "other_wins": 2,
+            "other_nominations": 1
+          }
+        },
+        {
+          "id": 47,
+          "title": "Midsommar",
+          "metascore": 72,
+          "metacritic": "https://www.metacritic.com/movie/midsommar/",
+          "writer": ["Ari Aster"],
+          "director": "Ari Aster",
+          "producers": [
+            "Patrik Andersson",
+            "Lars Knudsen",
+            "Viktória Petrányi"
+          ],
+          "composer": "The Haxan Cloak (as Bobby Krlic)",
+          "cinematographer": "Pawel Pogorzelski",
+          "editors": ["Lucian Johnston"],
+          "casting_directors": ["Jessica Kelly", "Jeanette Klintberg"],
+          "production_designer": "Henrik Svensson",
+          "released": 2019,
+          "production_company": "A24",
+          "genre": ["Drama", "Horror", "Mystery"],
+          "synopsis": "A couple travels to Northern Europe to visit a rural hometown's fabled Swedish mid-summer festival. What begins as an idyllic retreat quickly devolves into an increasingly violent and bizarre competition at the hands of a pagan cult.",
+          "duration": 148,
+          "poster": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_UX392_CR0,0,392,580_.jpg",
+          "thumbnail": "https://www.norwichfilmfestival.co.uk/wp-content/uploads/2019/07/midsommar.jpg",
+          "trailer": "https://www.youtube.com/watch?v=1Vnghdsjmd0",
+          "ost": [
+            {
+              "serviceName": "YouTube",
+              "logoUrl": "https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg",
+              "serviceUrl": "https://www.youtube.com/watch?v=15FrzbM4Ej8"
+            }
+          ],
+          "streaming": [
+            {
+              "serviceName": "Home Of Horror",
+              "logoUrl": "https://www.film-rezensionen.de/wp-content/uploads/2020/06/Home-of-Horror.jpg",
+              "serviceUrl": "https://www.amazon.de/gp/video/detail/amzn1.dv.gti.eab6b143-8a2c-7bb4-1f20-322a56b8b9f0?ref_=imdbref_tt_wbr_ovf__pvc_homeofhorror&tag=imdbtag_tt_wbr_ovf__pvc_homeofhorror_de-21"
+            },
+            {
+              "freeToWatch": "no",
+              "youtubeLink": ""
+            }
+          ],
+          "cast": [
+            {
+              "name": "Florence Pugh",
+              "role": "Dani"
+            },
+            {
+              "name": "Jack Reynor",
+              "role": "Christian"
+            },
+            {
+              "name": "Vilhelm Blomgren",
+              "role": "Pelle"
+            },
+            {
+              "name": "William Jackson Harper",
+              "role": "Josh"
+            },
+            {
+              "name": "Will Poulter",
+              "role": "Mark"
+            },
+            {
+              "name": "Ellora Torchia",
+              "role": "Connie"
+            },
+            {
+              "name": "Archie Madekwe",
+              "role": "Simon"
+            },
+            {
+              "name": "Henrik Norlén",
+              "role": "Ulf"
+            },
+            {
+              "name": "Gunnel Fred",
+              "role": "Siv"
+            },
+            {
+              "name": "Isabelle Grill",
+              "role": "Maja"
+            }
+          ],
+          "box_office": {
+            "budget": "$9,000,000",
+            "gross_us_canada": "$27,426,361",
+            "gross_world": "$48,015,416"
+          },
+          "release_date": "Jul 3, 2019 (United States)",
+          "awards": {
+            "nominated_for_oscar": null,
+            "other_wins": 27,
+            "other_nominations": 74
+          }
+        },
+        {
           "id": 10,
           "title": "X",
           "metascore": 80,
